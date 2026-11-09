@@ -103,7 +103,25 @@
 .cat-empty { display: grid; justify-items: center; gap: 22px; padding-block: clamp(70px, 9vw, 130px); text-align: center; }
 .cat-empty__title { font: 600 clamp(22px, 2.6vw, 40px)/1.2 var(--font-display); letter-spacing: .18em; text-transform: uppercase; color: var(--fg); padding-left: .18em; }
 
-/* Band inside the grid: a background photo that fades and flickers on (the homepage's "lights coming on" reveal),
+/* Category sections: a full-bleed photo scene (the homepage scene composition), then that category's products */
+/* lands exactly under the header + bar (html already adds header + 16px of scroll padding) */
+.cat-sec { scroll-margin-top: calc(var(--cat-bar-h, 66px) - 16px); }
+.cat-sec + .cat-sec { margin-top: clamp(90px, 10vw, 160px); }
+.cat-sec__scene { margin-top: 0; }
+.cat-sec .cat-grid { margin-top: clamp(14px, 1.6vw, 24px); scroll-margin-top: calc(var(--cat-bar-h, 66px) + 8px); }
+.cat-sec__count { font: 500 15px/1.3 var(--font-body); color: var(--fg-2); }
+@media (min-width: 1024px) {
+  .cat-sec .scene__sticky { height: min(calc(100svh - var(--header-h) - var(--cat-bar-h, 66px)), 880px); min-height: 540px; }
+  .cat-sec .cat-grid { grid-template-columns: repeat(60, minmax(0, 1fr)); }
+  .cat-sec .cat-grid > li { grid-column: span var(--span, 15); }
+  .cat-sec .cat-grid.is-large { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .cat-sec .cat-grid.is-large > li { grid-column: auto; }
+}
+.chip[aria-current="true"] { background: var(--fg); color: #000; border-color: var(--fg); }
+.cat.is-searching .cat-band { display: none; }
+.cat-status[hidden] + .cat-sec { margin-top: 0; }
+
+/* Closing band: a background photo that fades and flickers on (the homepage's "lights coming on" reveal),
    bleeding into black on the left, with the About line typed over it */
 .cat-band { grid-column: 1 / -1; position: relative; isolation: isolate; display: grid; align-items: center; min-height: clamp(520px, 50vw, 780px); margin-block: clamp(80px, 9vw, 150px); overflow: hidden; background: #000; }
 .cat-band__fig { position: absolute; top: 0; bottom: 0; right: 0; z-index: -1; width: 64%; -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 42%); mask-image: linear-gradient(90deg, transparent 0%, #000 42%); }
@@ -567,3 +585,4 @@ textarea.field__input { height: auto; min-height: 132px; padding: 12px 0; resize
 
 /* Left-aligned titles sit near the page edge: keep the glitch scanline inside the text box */
 .glitch__scan { left: 0; right: 0; }
+.cat-grid.is-large .wall__media { aspect-ratio: 4 / 5; }

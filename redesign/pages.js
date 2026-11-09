@@ -20,35 +20,38 @@
   const headerH = () => $('[data-header]')?.offsetHeight || 64;
 
   /* =====================================================================
-     Catalog / search
+     Catalog / search — one section per category (photo scene + products).
+     Chips jump to a section and follow the scroll; sort and grid size apply
+     inside every section; a search query (?q=) narrows all sections.
      ===================================================================== */
   const cat = $('[data-catalog]');
   if (cat) {
-    const grid = $('[data-cat-grid]', cat);
-    const items = $$('[data-cat-item]', grid).map(el => ({
-      el, index: +el.dataset.index, title: el.dataset.title, price: +el.dataset.price,
-      created: +el.dataset.created, groups: el.dataset.groups.split(' ').filter(Boolean),
-      imgs: $$('img', el),
+    const bar = $('[data-cat-bar]', cat);
+    const sections = $$('[data-cat-section]', cat).map(sec => ({
+      sec, id: sec.dataset.catSection,
+      grid: $('[data-cat-grid]', sec),
+      count: $('[data-sec-count]', sec),
+      chip: $(`[data-chip="${sec.dataset.catSection}"]`, cat),
+      items: $$('[data-cat-item]', sec).map(el => ({
+        el, index: +el.dataset.index, title: el.dataset.title, price: +el.dataset.price,
+        created: +el.dataset.created, handle: el.dataset.handle, imgs: $$('img', el),
+      })),
     }));
-    const band = $('[data-cat-band]', grid);
-    const bandAfter = band ? items.findIndex(it => it.el === band.nextElementSibling) : -1;
-    const chips = $$('[data-group]', cat);
+    const allItems = sections.flatMap(x => x.items);
     const sortSel = $('[data-cat-sort]', cat);
     const views = $$('[data-view]', cat);
+    const statusRow = $('[data-cat-status-row]', cat);
     const status = $('[data-cat-status]', cat);
     const clears = $$('[data-cat-clear]', cat);
     const empty = $('[data-cat-empty]', cat);
     const summary = $('[data-cat-summary]');
     const isSearch = cat.hasAttribute('data-search-page');
-    const total = items.length;
+    const total = new Set(allItems.map(it => it.handle)).size;
     const params = new URLSearchParams(location.search);
-    const groupIds = chips.map(c => c.dataset.group);
     const sorts = [...sortSel.options].map(o => o.value);
-    const groupName = id => chips.find(c => c.dataset.group === id)?.firstChild.textContent || '';
     let view = 'grid';
     try { if (localStorage.getItem('vp-cat-view') === 'large') view = 'large'; } catch { /* default view */ }
     const state = {
-      group: groupIds.includes(params.get('group')) ? params.get('group') : 'all',
       sort: sorts.includes(params.get('sort')) ? params.get('sort') : sorts[0],
       q: (params.get('q') || '').trim().slice(0, 80),
     };
@@ -63,12 +66,17 @@
       'created-descending': (a, b) => b.created - a.created || byIndex(a, b),
     };
 
+    // Sections scroll in under the header + this bar
+    const setBarHeight = () => document.documentElement.style.setProperty('--cat-bar-h', (bar?.offsetHeight || 66) + 'px');
+    setBarHeight();
+    window.addEventListener('resize', setBarHeight);
+
     function setView(next, { save = true } = {}) {
       view = next;
-      grid.classList.toggle('is-large', view === 'large');
+      sections.forEach(x => x.grid.classList.toggle('is-large', view === 'large'));
       views.forEach(b => b.setAttribute('aria-pressed', String(b.dataset.view === view)));
       const sizes = view === 'large' ? '(min-width: 700px) 50vw, 100vw' : '(min-width: 1024px) 25vw, (min-width: 700px) 33vw, 50vw';
-      items.forEach(it => it.imgs.forEach(im => { im.sizes = sizes; }));
+      allItems.forEach(it => it.imgs.forEach(im => { im.sizes = sizes; }));
       if (save) { try { localStorage.setItem('vp-cat-view', view); } catch { /* not remembered */ } }
       window.VPMotion?.refresh();
     }
@@ -76,71 +84,110 @@
     function syncURL() {
       const u = new URL(location.href);
       ['group', 'sort', 'q'].forEach(k => u.searchParams.delete(k));
-      if (state.group !== 'all') u.searchParams.set('group', state.group);
       if (state.sort !== sorts[0]) u.searchParams.set('sort', state.sort);
       if (state.q) u.searchParams.set('q', state.q);
       history.replaceState(history.state, '', u.pathname + u.search + u.hash);
     }
 
-    function animateIn(visible) {
-      if (!motion() || !visible.length) return;
-      const cols = getComputedStyle(grid).gridTemplateColumns.split(' ').length || 4;
-      visible.slice(0, cols * 3).forEach((it, i) => {
+    function animateIn(items) {
+      if (!motion()) return;
+      const near = items.filter(it => { const r = it.el.getBoundingClientRect(); return r.bottom > -200 && r.top < innerHeight + 200; });
+      near.slice(0, 12).forEach((it, i) => {
         const media = $('.wall__media', it.el);
-        const delay = (i % cols) * 70 + Math.floor(i / cols) * 90;
-        media?.getAnimations?.().forEach(a => a.cancel());
+        const delay = (i % 4) * 70 + Math.floor(i / 4) * 90;
+        media?.getAnimations?.().forEach(x => x.cancel());
         media?.animate([{ clipPath: 'inset(100% 0 0 0)' }, { clipPath: 'inset(0 0 0 0)' }], { duration: 900, delay, easing: EASE, fill: 'backwards' });
         $('.wall__img--primary', it.el)?.animate([{ transform: 'scale(1.12)' }, { transform: 'none' }], { duration: 1400, delay, easing: EASE, fill: 'backwards' });
       });
     }
 
-    function apply({ animate = true, scroll = true } = {}) {
+    // Desktop row filling (mirrors the build): <=5 visible -> one row; else 4 per row, short last row stretched
+    const wide = matchMedia('(min-width: 1024px)');
+    function fillRows() {
+      sections.forEach(x => {
+        const vis = x.items.filter(it => !it.el.hidden).sort((a, b) => [...x.grid.children].indexOf(a.el) - [...x.grid.children].indexOf(b.el));
+        const n = vis.length, cols = n <= 5 ? Math.max(1, n) : 4, last = n % cols;
+        vis.forEach((it, i) => it.el.style.setProperty('--span', String(last && i >= n - last ? 60 / last : 60 / cols)));
+        x.grid.classList.toggle('wall-tall', n <= 5);
+      });
+    }
+    wide.addEventListener('change', () => window.VPMotion?.refresh());
+
+    function apply({ animate = true } = {}) {
       const tokens = state.q.toLowerCase().split(/\s+/).filter(Boolean);
-      const ordered = [...items].sort(sorters[state.sort] || byIndex);
-      const visible = ordered.filter(it => (state.group === 'all' || it.groups.includes(state.group)) && tokens.every(t => it.title.includes(t)));
-      items.forEach(it => { it.el.hidden = !visible.includes(it); });
-      ordered.forEach(it => grid.append(it.el));
-      const filtered = state.group !== 'all' || state.sort !== sorts[0] || tokens.length > 0;
-      grid.classList.toggle('is-filtered', filtered);
-      if (band) { const anchor = visible[bandAfter]; if (anchor) grid.insertBefore(band, anchor.el); else grid.append(band); }
-      chips.forEach(c => c.setAttribute('aria-pressed', String(c.dataset.group === state.group)));
-      sortSel.value = state.sort;
-      const n = visible.length;
+      const sorter = sorters[state.sort] || byIndex;
+      const shown = new Set();
+      const visible = [];
+      sections.forEach(x => {
+        let n = 0;
+        [...x.items].sort(sorter).forEach(it => {
+          const ok = tokens.every(t => it.title.includes(t));
+          it.el.hidden = !ok;
+          if (ok) { n++; shown.add(it.handle); visible.push(it); }
+          x.grid.append(it.el);
+        });
+        x.sec.hidden = n === 0;
+        if (x.count) x.count.textContent = String(n);
+        if (x.chip) { x.chip.hidden = n === 0; const c = $('[data-chip-n]', x.chip); if (c) c.textContent = String(n); }
+      });
+      fillRows();
+      const n = shown.size;
+      cat.classList.toggle('is-searching', tokens.length > 0);
       empty.hidden = n > 0;
-      grid.hidden = n === 0;
-      const parts = [];
-      if (state.q) parts.push(`${n} result${n === 1 ? '' : 's'} for “${state.q}”`);
-      else if (state.group !== 'all') parts.push(`${n} of ${total} products · ${groupName(state.group)}`);
-      else if (isSearch) parts.push(`Showing all ${total} products`);
-      status.textContent = parts.join('');
-      clears.forEach(b => { b.hidden = !(state.q || state.group !== 'all'); });
+      const text = state.q ? `${n} result${n === 1 ? '' : 's'} for “${state.q}”` : isSearch ? `Showing all ${total} products` : '';
+      status.textContent = text;
+      clears.forEach(b => { b.hidden = !state.q; });
+      statusRow.hidden = !text;
       if (summary) summary.textContent = `${n} product${n === 1 ? '' : 's'}`;
       syncURL();
       window.VPMotion?.refresh();
-      if (animate) {
-        animateIn(visible);
-        const top = cat.getBoundingClientRect().top + window.scrollY - headerH();
-        if (scroll && window.scrollY > top + 4) window.scrollTo({ top, behavior: motion() ? 'smooth' : 'auto' });
-      }
+      setBarHeight();
+      spy();
+      if (animate) animateIn(visible);
     }
 
-    chips.forEach(c => c.addEventListener('click', () => {
-      if (state.group === c.dataset.group) return;
-      state.group = c.dataset.group;
-      apply();
-      const box = c.parentElement, l = c.offsetLeft - box.offsetLeft;
-      if (l < box.scrollLeft || l + c.offsetWidth > box.scrollLeft + box.clientWidth) box.scrollTo({ left: Math.max(0, l - 16), behavior: motion() ? 'smooth' : 'auto' });
-    }));
+    /* Chips follow the section under the bar */
+    let spyQueued = false;
+    function spy() {
+      spyQueued = false;
+      const line = (document.querySelector('[data-header]')?.offsetHeight || 64) + (bar?.offsetHeight || 66) + 24;
+      let current = null;
+      for (const x of sections) {
+        if (x.sec.hidden) continue;
+        const r = x.sec.getBoundingClientRect();
+        if (r.top <= line && r.bottom > line) { current = x; break; }
+      }
+      sections.forEach(x => {
+        if (!x.chip) return;
+        const on = x === current;
+        if (on && x.chip.getAttribute('aria-current') !== 'true') {
+          x.chip.setAttribute('aria-current', 'true');
+          const box = x.chip.parentElement, l = x.chip.offsetLeft - box.offsetLeft;
+          if (l < box.scrollLeft || l + x.chip.offsetWidth > box.scrollLeft + box.clientWidth) box.scrollTo({ left: Math.max(0, l - 16), behavior: motion() ? 'smooth' : 'auto' });
+        } else if (!on) x.chip.removeAttribute('aria-current');
+      });
+    }
+    window.addEventListener('scroll', () => { if (!spyQueued) { spyQueued = true; requestAnimationFrame(spy); } }, { passive: true });
+
     sortSel.addEventListener('change', () => { state.sort = sortSel.value; apply(); });
-    views.forEach(b => b.addEventListener('click', () => { if (b.dataset.view !== view) { setView(b.dataset.view); animateIn(items.filter(it => !it.el.hidden)); } }));
+    views.forEach(b => b.addEventListener('click', () => { if (b.dataset.view !== view) { setView(b.dataset.view); animateIn(allItems.filter(it => !it.el.hidden)); } }));
     clears.forEach(b => b.addEventListener('click', () => {
-      state.group = 'all'; state.q = '';
+      state.q = '';
+      const field = $('#search-q'); if (field) field.value = '';
       apply();
-      chips[0]?.focus({ preventScroll: true });
+      sections.find(x => !x.sec.hidden)?.chip?.focus({ preventScroll: true });
     }));
 
     if (view !== 'grid') setView(view, { save: false });
-    if (state.group !== 'all' || state.sort !== sorts[0] || state.q || isSearch) apply({ animate: false });
+    sortSel.value = state.sort;
+    if (state.sort !== sorts[0] || state.q || isSearch) apply({ animate: false });
+    else spy();
+    // Old ?group= links (and #id links) land on that category's section
+    const group = params.get('group');
+    if (group && sections.some(x => x.id === group)) {
+      syncURL();
+      requestAnimationFrame(() => document.getElementById(group)?.scrollIntoView({ block: 'start' }));
+    }
   }
 
   /* =====================================================================

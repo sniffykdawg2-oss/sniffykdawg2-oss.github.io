@@ -563,6 +563,7 @@ html:not(.motion-ok) .search__panel, html:not(.motion-ok) .search__backdrop { tr
    ========================================================================== */
 .scene { position: relative; margin-top: var(--section-pad); }
 .scene--right { margin-top: clamp(64px, 6vw, 110px); }
+.scene--intro { margin-top: clamp(64px, 6vw, 110px); }
 .scene__sticky { position: relative; }
 .scene__frame { position: relative; overflow: hidden; background: #000; }
 .scene__media { position: absolute; inset: 0; }
@@ -603,11 +604,12 @@ html:not(.motion-ok) .search__panel, html:not(.motion-ok) .search__backdrop { tr
   .scene--right .scene__stack { grid-column: 7 / 13; grid-row: 1; align-self: center; }
   .scene--right .scene__title, .scene--right .scene__aside { grid-column: auto; grid-row: auto; align-self: auto; padding-bottom: 0; }
 }
+/* Phones and tablets: every photo scene stays a full picture background, with its copy over the lower part */
 @media (max-width: 1023px) {
-  .scene--right .scene__sticky { height: clamp(520px, 88svh, 820px); overflow: hidden; }
-  .scene--right .scene__frame { position: absolute; inset: 0; aspect-ratio: auto; max-height: none; }
-  .scene--right .scene__shade { background: linear-gradient(180deg, #000 0%, rgba(0, 0, 0, 0) 22%, rgba(0, 0, 0, .25) 45%, rgba(0, 0, 0, .9) 82%, #000 100%); }
-  .scene--right .scene__copy { position: absolute; left: 0; right: 0; bottom: 0; z-index: 2; padding-bottom: 32px; }
+  .scene .scene__sticky { height: clamp(540px, 90svh, 860px); overflow: hidden; }
+  .scene .scene__frame { position: absolute; inset: 0; aspect-ratio: auto; max-height: none; }
+  .scene .scene__shade { background: linear-gradient(180deg, #000 0%, rgba(0, 0, 0, 0) 20%, rgba(0, 0, 0, .2) 42%, rgba(0, 0, 0, .88) 76%, #000 100%); }
+  .scene .scene__copy { position: absolute; left: 0; right: 0; bottom: 0; z-index: 2; padding-bottom: 32px; }
 }
 
 /* ==========================================================================

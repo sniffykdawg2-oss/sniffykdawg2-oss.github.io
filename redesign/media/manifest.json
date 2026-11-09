@@ -1691,6 +1691,95 @@
       ]
     },
     {
+      "key": "winged-shirt-4-catalog-scene",
+      "role": "catalog scene",
+      "product": "winged-shirt",
+      "source": "/assets/8bc523ea5608a9c0c9.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_dfeb18a2-c7c9-4dcf-9bd0-7fb55851df50.png?v=1793723625",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/winged-shirt-4-catalog-scene-960.webp",
+          "width": 960,
+          "bytes": 51094
+        },
+        {
+          "file": "/redesign/media/winged-shirt-4-catalog-scene-1137.webp",
+          "width": 1137,
+          "bytes": 67608
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-2-catalog-scene",
+      "role": "catalog scene",
+      "product": "vengeance-compression",
+      "source": "/assets/2b921a55bf61820fa6.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/tiktok_studio_2.png?v=1771618433",
+      "sourceSize": "1929x2894",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-2-catalog-scene-960.webp",
+          "width": 960,
+          "bytes": 57920
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-2-catalog-scene-1600.webp",
+          "width": 1600,
+          "bytes": 120640
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-2-catalog-scene-1929.webp",
+          "width": 1929,
+          "bytes": 176566
+        }
+      ]
+    },
+    {
+      "key": "icarus-hoodie-black-11-0-catalog-scene",
+      "role": "catalog scene",
+      "product": "icarus-hoodie-black-11",
+      "source": "/assets/88781883807c3051eb.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/7DC87766-472B-4772-82A7-B13EF9AB2253.jpg?v=1773455268",
+      "sourceSize": "1365x2048",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-0-catalog-scene-960.webp",
+          "width": 960,
+          "bytes": 74950
+        },
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-0-catalog-scene-1365.webp",
+          "width": 1365,
+          "bytes": 155824
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-2-catalog-scene",
+      "role": "catalog scene",
+      "product": "new-sweats",
+      "source": "/assets/6d001e19fbd99240c9.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/f4e74b07dea74dbe9d3a77237e0ff182.jpg?v=1793720737",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-2-catalog-scene-960.webp",
+          "width": 960,
+          "bytes": 48280
+        },
+        {
+          "file": "/redesign/media/new-sweats-2-catalog-scene-1341.webp",
+          "width": 1341,
+          "bytes": 86372
+        }
+      ]
+    },
+    {
       "key": "raw-edge-spider-zip-up-1-2-hero",
       "role": "hero",
       "product": "raw-edge-spider-zip-up-1",
