@@ -1,0 +1,5406 @@
+{
+  "generated": "scripts/build-redesign.mjs",
+  "captured": "2026-11-04",
+  "note": "Every derivative is re-encoded from a public Vengeance Project asset downloaded during the 2026-11-04 capture. No generated or third-party imagery.",
+  "assets": [
+    {
+      "key": "essential-heavyweight-crewneck-sweatshirt-1",
+      "role": "variant image",
+      "product": "essential-heavyweight-crewneck-sweatshirt",
+      "source": "/assets/37d244357b2f21b29f.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_23320342-0a34-4601-a721-547b3b61b124.png?v=1793723539",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-1-420.webp",
+          "width": 420,
+          "bytes": 17150
+        },
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-1-760.webp",
+          "width": 760,
+          "bytes": 36394
+        }
+      ]
+    },
+    {
+      "key": "essential-heavyweight-crewneck-sweatshirt-5",
+      "role": "variant image",
+      "product": "essential-heavyweight-crewneck-sweatshirt",
+      "source": "/assets/4d46cd1568eeebd504.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/01FE21A8-8F5C-444E-A9EF-191524B7EDF9.png?v=1793723539",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-5-420.webp",
+          "width": 420,
+          "bytes": 25008
+        },
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-5-760.webp",
+          "width": 760,
+          "bytes": 53522
+        }
+      ]
+    },
+    {
+      "key": "essential-heavyweight-crewneck-sweatshirt-0",
+      "role": "card primary",
+      "product": "essential-heavyweight-crewneck-sweatshirt",
+      "source": "/assets/36fed97a3ef1761f22.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_a18829cc-1abc-4d4d-a91b-54a66d1d8d0b.png?v=1793723539",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-0-420.webp",
+          "width": 420,
+          "bytes": 16960
+        },
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-0-760.webp",
+          "width": 760,
+          "bytes": 36530
+        }
+      ]
+    },
+    {
+      "key": "essential-heavyweight-crewneck-sweatshirt-2",
+      "role": "card alternate",
+      "product": "essential-heavyweight-crewneck-sweatshirt",
+      "source": "/assets/b59bc33e98acbcbdd0.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_9ac7b66b-aeea-466d-90f8-20eb87bfec6e.png?v=1793723539",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-2-420.webp",
+          "width": 420,
+          "bytes": 13544
+        },
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-2-760.webp",
+          "width": 760,
+          "bytes": 29000
+        }
+      ]
+    },
+    {
+      "key": "winged-shirt-0",
+      "role": "card primary",
+      "product": "winged-shirt",
+      "source": "/assets/adf01d226372d64a95.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_15c0f8e0-75ea-44f6-8b1a-bba1f6d119e8.png?v=1793723628",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/winged-shirt-0-420.webp",
+          "width": 420,
+          "bytes": 18040
+        },
+        {
+          "file": "/redesign/media/winged-shirt-0-760.webp",
+          "width": 760,
+          "bytes": 38450
+        }
+      ]
+    },
+    {
+      "key": "winged-shirt-1",
+      "role": "card alternate",
+      "product": "winged-shirt",
+      "source": "/assets/c7e7989c82dfe9091a.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_2d8e5c47-52ff-4364-a398-b7a826d330de.png?v=1793723622",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/winged-shirt-1-420.webp",
+          "width": 420,
+          "bytes": 14704
+        },
+        {
+          "file": "/redesign/media/winged-shirt-1-760.webp",
+          "width": 760,
+          "bytes": 31406
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-winged-sweats-7",
+      "role": "variant image",
+      "product": "raw-edge-winged-sweats",
+      "source": "/assets/18293d2844c84c6b9c.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/510F211C-949D-4ABF-BBA8-71D1A47543DA.png?v=1793723587",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-7-420.webp",
+          "width": 420,
+          "bytes": 8550
+        },
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-7-760.webp",
+          "width": 760,
+          "bytes": 18584
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-winged-sweats-2",
+      "role": "variant image",
+      "product": "raw-edge-winged-sweats",
+      "source": "/assets/e86dff74da4ebdcd14.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/8751FC3B-B7B4-4023-B844-4645FC48BCCF.png?v=1793723587",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-2-420.webp",
+          "width": 420,
+          "bytes": 12992
+        },
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-2-760.webp",
+          "width": 760,
+          "bytes": 42624
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-winged-sweats-1",
+      "role": "card primary",
+      "product": "raw-edge-winged-sweats",
+      "source": "/assets/2f894d4835b436e6d0.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/95AFC855-5A2D-423F-B828-38A2E021303D.png?v=1793723587",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-1-420.webp",
+          "width": 420,
+          "bytes": 10212
+        },
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-1-760.webp",
+          "width": 760,
+          "bytes": 25154
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-winged-sweats-0",
+      "role": "card alternate",
+      "product": "raw-edge-winged-sweats",
+      "source": "/assets/0c1ef7e57758b5b96e.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/9BCB8FD8-AC30-437F-A892-09C54C5BCF0D.png?v=1793723587",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-0-420.webp",
+          "width": 420,
+          "bytes": 14226
+        },
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-0-760.webp",
+          "width": 760,
+          "bytes": 46522
+        }
+      ]
+    },
+    {
+      "key": "performance-quarter-zip-2",
+      "role": "variant image",
+      "product": "performance-quarter-zip",
+      "source": "/assets/8a1f1a0d833e6db4d1.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_8eb8feda-2bf1-4acc-8663-0020272ef5a7.png?v=1793723725",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-quarter-zip-2-420.webp",
+          "width": 420,
+          "bytes": 8528
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-2-760.webp",
+          "width": 760,
+          "bytes": 19102
+        }
+      ]
+    },
+    {
+      "key": "performance-quarter-zip-0",
+      "role": "variant image",
+      "product": "performance-quarter-zip",
+      "source": "/assets/80a1e1b6725e9e4236.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_0e44a84e-8e6c-4176-9c08-7c660b8452e9.png?v=1793723725",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-quarter-zip-0-420.webp",
+          "width": 420,
+          "bytes": 11126
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-0-760.webp",
+          "width": 760,
+          "bytes": 24042
+        }
+      ]
+    },
+    {
+      "key": "performance-quarter-zip-4",
+      "role": "variant image",
+      "product": "performance-quarter-zip",
+      "source": "/assets/c5b63e24a720aa0451.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/FC6718DD-EE9B-49CB-814A-67E296867D0C.png?v=1793723725",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-quarter-zip-4-420.webp",
+          "width": 420,
+          "bytes": 12026
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-4-760.webp",
+          "width": 760,
+          "bytes": 25870
+        }
+      ]
+    },
+    {
+      "key": "performance-quarter-zip-7",
+      "role": "variant image",
+      "product": "performance-quarter-zip",
+      "source": "/assets/d208b36224f2ff9864.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_a1830cad-af2f-4c58-b86c-3d65843edad7.png?v=1793723727",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-quarter-zip-7-420.webp",
+          "width": 420,
+          "bytes": 12358
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-7-760.webp",
+          "width": 760,
+          "bytes": 26250
+        }
+      ]
+    },
+    {
+      "key": "performance-quarter-zip-1",
+      "role": "card alternate",
+      "product": "performance-quarter-zip",
+      "source": "/assets/7ee469f8010ccdd4e7.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_28c56252-c46e-4bbb-8761-bce58606a8c9.png?v=1793723725",
+      "sourceSize": "1000x1734",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-quarter-zip-1-420.webp",
+          "width": 420,
+          "bytes": 13476
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-1-760.webp",
+          "width": 760,
+          "bytes": 29032
+        }
+      ]
+    },
+    {
+      "key": "vp-shorts-0",
+      "role": "variant image",
+      "product": "vp-shorts",
+      "source": "/assets/82b63d6c529480e232.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_7da27840-537d-4143-bf54-ad7379d7fce7.png?v=1793723664",
+      "sourceSize": "1328x1659",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-shorts-0-420.webp",
+          "width": 420,
+          "bytes": 7544
+        },
+        {
+          "file": "/redesign/media/vp-shorts-0-760.webp",
+          "width": 760,
+          "bytes": 16158
+        }
+      ]
+    },
+    {
+      "key": "vp-shorts-2",
+      "role": "variant image",
+      "product": "vp-shorts",
+      "source": "/assets/937fb4ee57435bdac6.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_8354009e-e115-4715-be22-130cdb6657b2.png?v=1793723664",
+      "sourceSize": "1328x1659",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-shorts-2-420.webp",
+          "width": 420,
+          "bytes": 7338
+        },
+        {
+          "file": "/redesign/media/vp-shorts-2-760.webp",
+          "width": 760,
+          "bytes": 15150
+        }
+      ]
+    },
+    {
+      "key": "vp-shorts-1",
+      "role": "card alternate",
+      "product": "vp-shorts",
+      "source": "/assets/5dd0108b5db392f607.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_fb66d752-d829-45bf-8b6d-bd62fb1bb52b.png?v=1793723663",
+      "sourceSize": "1328x1659",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-shorts-1-420.webp",
+          "width": 420,
+          "bytes": 5628
+        },
+        {
+          "file": "/redesign/media/vp-shorts-1-760.webp",
+          "width": 760,
+          "bytes": 12290
+        }
+      ]
+    },
+    {
+      "key": "essential-heavyweight-crewneck-sweatshirt-1-intro",
+      "role": "intro",
+      "product": "essential-heavyweight-crewneck-sweatshirt",
+      "source": "/assets/37d244357b2f21b29f.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_23320342-0a34-4601-a721-547b3b61b124.png?v=1793723539",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-1-intro-720.webp",
+          "width": 720,
+          "bytes": 36302
+        },
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-1-intro-1137.webp",
+          "width": 1137,
+          "bytes": 69022
+        }
+      ]
+    },
+    {
+      "key": "performance-quarter-zip-8-catalog-tile",
+      "role": "catalog tile",
+      "product": "performance-quarter-zip",
+      "source": "/assets/c569307ad6dc0207e6.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_54503a17-a415-4d38-98f0-9b9d8524d230.png?v=1793723726",
+      "sourceSize": "1356x1675",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-quarter-zip-8-catalog-tile-420.webp",
+          "width": 420,
+          "bytes": 10316
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-8-catalog-tile-760.webp",
+          "width": 760,
+          "bytes": 24118
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-8-catalog-tile-1100.webp",
+          "width": 1100,
+          "bytes": 42142
+        }
+      ]
+    },
+    {
+      "key": "snow-washed-oversized-cotton-t-shirt-0",
+      "role": "card primary",
+      "product": "snow-washed-oversized-cotton-t-shirt",
+      "source": "/assets/9942d21b18fd2c6045.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Acid_Wash_Back_Website_675272a0-c61b-4aca-a7ed-66789c3d4f3a.png?v=1771119265",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-0-420.webp",
+          "width": 420,
+          "bytes": 10242
+        },
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-0-760.webp",
+          "width": 760,
+          "bytes": 31050
+        }
+      ]
+    },
+    {
+      "key": "snow-washed-oversized-cotton-t-shirt-1",
+      "role": "card alternate",
+      "product": "snow-washed-oversized-cotton-t-shirt",
+      "source": "/assets/be676a4a98ef1b3c07.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Acid_Wash_Front_Website_25c74937-60cf-4fd3-9d00-75e62e6bc7e2.png?v=1771119265",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-1-420.webp",
+          "width": 420,
+          "bytes": 7074
+        },
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-1-760.webp",
+          "width": 760,
+          "bytes": 22980
+        }
+      ]
+    },
+    {
+      "key": "icarus-pump-cover-blcknvy-11-0",
+      "role": "card primary",
+      "product": "icarus-pump-cover-blcknvy-11",
+      "source": "/assets/deeb9ed44aea272341.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Falling_Angel_Back_Website.png?v=1770854227",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-0-420.webp",
+          "width": 420,
+          "bytes": 9274
+        },
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-0-760.webp",
+          "width": 760,
+          "bytes": 26552
+        }
+      ]
+    },
+    {
+      "key": "icarus-pump-cover-blcknvy-11-1",
+      "role": "card alternate",
+      "product": "icarus-pump-cover-blcknvy-11",
+      "source": "/assets/064eb9c5337e974de7.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Falling_Angel_Front_Website.png?v=1770854227",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-1-420.webp",
+          "width": 420,
+          "bytes": 5740
+        },
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-1-760.webp",
+          "width": 760,
+          "bytes": 18022
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-0",
+      "role": "variant image",
+      "product": "vengeance-compression",
+      "source": "/assets/a1fa375d10cec8a81b.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Yourparagraphtext.png?v=1770003904",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-0-420.webp",
+          "width": 420,
+          "bytes": 6968
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-0-760.webp",
+          "width": 760,
+          "bytes": 19184
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-5",
+      "role": "variant image",
+      "product": "vengeance-compression",
+      "source": "/assets/78a5a65a0c6e7ef261.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text.png?v=1792691501",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-5-420.webp",
+          "width": 420,
+          "bytes": 10214
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-5-760.webp",
+          "width": 760,
+          "bytes": 25912
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-1",
+      "role": "card alternate",
+      "product": "vengeance-compression",
+      "source": "/assets/fd453009ff7cf100e5.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_copy.png?v=1792691646",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-1-420.webp",
+          "width": 420,
+          "bytes": 5144
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-1-760.webp",
+          "width": 760,
+          "bytes": 16102
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-long-sleeve-0",
+      "role": "variant image",
+      "product": "vengeance-compression-long-sleeve",
+      "source": "/assets/56632a5fe37d1c1007.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_copy_3.png?v=1792691983",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-0-420.webp",
+          "width": 420,
+          "bytes": 6516
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-0-760.webp",
+          "width": 760,
+          "bytes": 18322
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-long-sleeve-5",
+      "role": "variant image",
+      "product": "vengeance-compression-long-sleeve",
+      "source": "/assets/918075678dc6dd5254.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_4_f506757b-a3c8-4f9a-9616-78fcd6ee9d73.png?v=1792692089",
+      "sourceSize": "1450x1812",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-5-420.webp",
+          "width": 420,
+          "bytes": 10506
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-5-760.webp",
+          "width": 760,
+          "bytes": 25360
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-long-sleeve-1",
+      "role": "card alternate",
+      "product": "vengeance-compression-long-sleeve",
+      "source": "/assets/643ab662d8fb252437.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_copy_2.png?v=1792691645",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-1-420.webp",
+          "width": 420,
+          "bytes": 5110
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-1-760.webp",
+          "width": 760,
+          "bytes": 15290
+        }
+      ]
+    },
+    {
+      "key": "vp-compression-2643266-0",
+      "role": "variant image",
+      "product": "vp-compression-2643266",
+      "source": "/assets/a7830d0789ab768541.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Yourparagraphtext_4.png?v=1772085800",
+      "sourceSize": "938x1160",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-compression-2643266-0-420.webp",
+          "width": 420,
+          "bytes": 5282
+        },
+        {
+          "file": "/redesign/media/vp-compression-2643266-0-760.webp",
+          "width": 760,
+          "bytes": 15406
+        }
+      ]
+    },
+    {
+      "key": "vp-compression-2643266-5",
+      "role": "variant image",
+      "product": "vp-compression-2643266",
+      "source": "/assets/75a3503f94d122563e.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_1_f015b542-fae1-4087-9247-2ca7b9116a58.png?v=1792692206",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-compression-2643266-5-420.webp",
+          "width": 420,
+          "bytes": 8994
+        },
+        {
+          "file": "/redesign/media/vp-compression-2643266-5-760.webp",
+          "width": 760,
+          "bytes": 22582
+        }
+      ]
+    },
+    {
+      "key": "vp-compression-2643266-1",
+      "role": "card alternate",
+      "product": "vp-compression-2643266",
+      "source": "/assets/fd453009ff7cf100e5.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_copy.png?v=1792691646",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-compression-2643266-1-420.webp",
+          "width": 420,
+          "bytes": 5144
+        },
+        {
+          "file": "/redesign/media/vp-compression-2643266-1-760.webp",
+          "width": 760,
+          "bytes": 16102
+        }
+      ]
+    },
+    {
+      "key": "performance-long-sleeve-t-shirt-0",
+      "role": "variant image",
+      "product": "performance-long-sleeve-t-shirt",
+      "source": "/assets/6cc939c4d2384eab5b.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_6_897fa334-5252-419b-b1bd-7faf12579421.png?v=1772085814",
+      "sourceSize": "938x1160",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-0-420.webp",
+          "width": 420,
+          "bytes": 5264
+        },
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-0-760.webp",
+          "width": 760,
+          "bytes": 14658
+        }
+      ]
+    },
+    {
+      "key": "performance-long-sleeve-t-shirt-6",
+      "role": "variant image",
+      "product": "performance-long-sleeve-t-shirt",
+      "source": "/assets/af72f164ea204200be.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_5_cf27dbaa-a65e-406b-bdf9-731fc32f0ee2.png?v=1792691501",
+      "sourceSize": "1503x1812",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-6-420.webp",
+          "width": 420,
+          "bytes": 9120
+        },
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-6-760.webp",
+          "width": 760,
+          "bytes": 22396
+        }
+      ]
+    },
+    {
+      "key": "performance-long-sleeve-t-shirt-1",
+      "role": "card alternate",
+      "product": "performance-long-sleeve-t-shirt",
+      "source": "/assets/643ab662d8fb252437.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_copy_2.png?v=1792691645",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-1-420.webp",
+          "width": 420,
+          "bytes": 5110
+        },
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-1-760.webp",
+          "width": 760,
+          "bytes": 15290
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-3-catalog-tile",
+      "role": "catalog tile",
+      "product": "vengeance-compression",
+      "source": "/assets/e1ae072acfa923b069.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/tiktok_studio_1.png?v=1771618433",
+      "sourceSize": "1676x2515",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-3-catalog-tile-420.webp",
+          "width": 420,
+          "bytes": 18110
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-3-catalog-tile-760.webp",
+          "width": 760,
+          "bytes": 38636
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-3-catalog-tile-1100.webp",
+          "width": 1100,
+          "bytes": 61322
+        }
+      ]
+    },
+    {
+      "key": "new-sweatshirt-0",
+      "role": "variant image",
+      "product": "new-sweatshirt",
+      "source": "/assets/d4534e023285c92c1d.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/5de4aecdcc0d45fb9115fd643baf829c.jpg?v=1793720182",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweatshirt-0-420.webp",
+          "width": 420,
+          "bytes": 13882
+        },
+        {
+          "file": "/redesign/media/new-sweatshirt-0-760.webp",
+          "width": 760,
+          "bytes": 33848
+        }
+      ]
+    },
+    {
+      "key": "new-sweatshirt-5",
+      "role": "variant image",
+      "product": "new-sweatshirt",
+      "source": "/assets/680b69946e84769ff3.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/9560E310-16B8-4BE7-B975-6D613BF38C1A.png?v=1793724804",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweatshirt-5-420.webp",
+          "width": 420,
+          "bytes": 16400
+        },
+        {
+          "file": "/redesign/media/new-sweatshirt-5-760.webp",
+          "width": 760,
+          "bytes": 38354
+        }
+      ]
+    },
+    {
+      "key": "new-sweatshirt-1",
+      "role": "card alternate",
+      "product": "new-sweatshirt",
+      "source": "/assets/ea5c2ffa7a064247f4.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/058ced35b8f34b99a6eab649b2ae493e.jpg?v=1793720182",
+      "sourceSize": "1086x1448",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweatshirt-1-420.webp",
+          "width": 420,
+          "bytes": 9412
+        },
+        {
+          "file": "/redesign/media/new-sweatshirt-1-760.webp",
+          "width": 760,
+          "bytes": 23110
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-0",
+      "role": "variant image",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/69daef9e9e734da7a2.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/995114624cd74ab388e2fde1733139f5.jpg?v=1793721187",
+      "sourceSize": "1266x1688",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-0-420.webp",
+          "width": 420,
+          "bytes": 12262
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-0-760.webp",
+          "width": 760,
+          "bytes": 26964
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-3",
+      "role": "variant image",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/22225aca402e002523.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/088346E8-C66F-490A-AB33-CA42736D47ED.png?v=1793723789",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-3-420.webp",
+          "width": 420,
+          "bytes": 16568
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-3-760.webp",
+          "width": 760,
+          "bytes": 45434
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-6",
+      "role": "variant image",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/6433cb1bd98bd3cdbf.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/4EC2E141-E3AD-4A3B-BCB7-01B1ADE4A02C.png?v=1793723829",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-6-420.webp",
+          "width": 420,
+          "bytes": 35840
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-6-760.webp",
+          "width": 760,
+          "bytes": 87216
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-7",
+      "role": "variant image",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/d35a794f636e68a482.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/A8FF1BB2-22B4-4186-A619-E33311A5C977.png?v=1793723829",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-7-420.webp",
+          "width": 420,
+          "bytes": 17384
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-7-760.webp",
+          "width": 760,
+          "bytes": 45006
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-1",
+      "role": "card alternate",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/449751037590760e3f.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/8b4c35284f274fdc9f50298dac34b189.jpg?v=1793721187",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-1-420.webp",
+          "width": 420,
+          "bytes": 9298
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-1-760.webp",
+          "width": 760,
+          "bytes": 22480
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-icarus-zip-up-2-0",
+      "role": "card primary",
+      "product": "raw-edge-icarus-zip-up-2",
+      "source": "/assets/deeacdd5e13b058666.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/tiktok_studio_24.png?v=1789848788",
+      "sourceSize": "1266x1688",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-0-420.webp",
+          "width": 420,
+          "bytes": 9444
+        },
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-0-760.webp",
+          "width": 760,
+          "bytes": 20930
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-icarus-zip-up-2-1",
+      "role": "card alternate",
+      "product": "raw-edge-icarus-zip-up-2",
+      "source": "/assets/1390fa861c566abdf1.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/827a3e33-a02e-4e96-a9a5-2f038839a222.png?v=1789690898",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-1-420.webp",
+          "width": 420,
+          "bytes": 9278
+        },
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-1-760.webp",
+          "width": 760,
+          "bytes": 23856
+        }
+      ]
+    },
+    {
+      "key": "vengeance-hoodie-black-22-1",
+      "role": "card primary",
+      "product": "vengeance-hoodie-black-22",
+      "source": "/assets/830319762d8e39be09.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/136434C6-B430-40BF-8398-8A1A3CE198FB.jpg?v=1770851714",
+      "sourceSize": "1365x2048",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-1-420.webp",
+          "width": 420,
+          "bytes": 12374
+        },
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-1-760.webp",
+          "width": 760,
+          "bytes": 28996
+        }
+      ]
+    },
+    {
+      "key": "vengeance-hoodie-black-22-3",
+      "role": "card alternate",
+      "product": "vengeance-hoodie-black-22",
+      "source": "/assets/9b4a1459dc8cedae3d.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Vengeance_Hoodie_back_design.png?v=1784072173",
+      "sourceSize": "938x1160",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-3-420.webp",
+          "width": 420,
+          "bytes": 12874
+        },
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-3-760.webp",
+          "width": 760,
+          "bytes": 34760
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-0",
+      "role": "variant image",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/c04b85f5c29dbb1f6a.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/3269108040264fc0a974a858fd3e8263.jpg?v=1793721877",
+      "sourceSize": "1266x1688",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-0-420.webp",
+          "width": 420,
+          "bytes": 11170
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-0-760.webp",
+          "width": 760,
+          "bytes": 24516
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-5",
+      "role": "variant image",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/d35a794f636e68a482.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/A8FF1BB2-22B4-4186-A619-E33311A5C977.png?v=1793723829",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-5-420.webp",
+          "width": 420,
+          "bytes": 17384
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-5-760.webp",
+          "width": 760,
+          "bytes": 45006
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-8",
+      "role": "variant image",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/22225aca402e002523.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/088346E8-C66F-490A-AB33-CA42736D47ED.png?v=1793723789",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-8-420.webp",
+          "width": 420,
+          "bytes": 16568
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-8-760.webp",
+          "width": 760,
+          "bytes": 45434
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-7",
+      "role": "variant image",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/5e5c76d316eca71f59.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/83FE72ED-6A81-460E-95B6-208782291DA5.png?v=1793723829",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-7-420.webp",
+          "width": 420,
+          "bytes": 33260
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-7-760.webp",
+          "width": 760,
+          "bytes": 80674
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-2",
+      "role": "card alternate",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/58f8e8d507c124cf2e.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/f4804f742e7d435980f1196d224e4022.jpg?v=1793721877",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-2-420.webp",
+          "width": 420,
+          "bytes": 8782
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-2-760.webp",
+          "width": 760,
+          "bytes": 20364
+        }
+      ]
+    },
+    {
+      "key": "icarus-hoodie-black-11-0",
+      "role": "card primary",
+      "product": "icarus-hoodie-black-11",
+      "source": "/assets/88781883807c3051eb.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/7DC87766-472B-4772-82A7-B13EF9AB2253.jpg?v=1773455268",
+      "sourceSize": "1365x2048",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-0-420.webp",
+          "width": 420,
+          "bytes": 21778
+        },
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-0-760.webp",
+          "width": 760,
+          "bytes": 55930
+        }
+      ]
+    },
+    {
+      "key": "icarus-hoodie-black-11-1",
+      "role": "card alternate",
+      "product": "icarus-hoodie-black-11",
+      "source": "/assets/f256583f922c42085d.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/E4230C9B-7097-4E6D-A2B2-31ACBB797C35.jpg?v=1773455353",
+      "sourceSize": "1365x1718",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-1-420.webp",
+          "width": 420,
+          "bytes": 11630
+        },
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-1-760.webp",
+          "width": 760,
+          "bytes": 27764
+        }
+      ]
+    },
+    {
+      "key": "vengeance-hoodie-black-22-0-chapter-panel",
+      "role": "chapter panel",
+      "product": "vengeance-hoodie-black-22",
+      "source": "/assets/7ad742c764aa603f25.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/4E15EA55-10E1-44C0-A5D5-FF1AE6C30862.jpg?v=1770851714",
+      "sourceSize": "1188x1782",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-0-chapter-panel-640.webp",
+          "width": 640,
+          "bytes": 22776
+        },
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-0-chapter-panel-1000.webp",
+          "width": 1000,
+          "bytes": 43480
+        },
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-0-chapter-panel-1188.webp",
+          "width": 1188,
+          "bytes": 66934
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-9-catalog-tile",
+      "role": "catalog tile",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/10f067e3ef015ea117.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/11783d00050441848cb86996f50fe9dd.jpg?v=1793721188",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-9-catalog-tile-420.webp",
+          "width": 420,
+          "bytes": 21626
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-9-catalog-tile-760.webp",
+          "width": 760,
+          "bytes": 77826
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-9-catalog-tile-1100.webp",
+          "width": 1100,
+          "bytes": 153616
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-2",
+      "role": "variant image",
+      "product": "new-sweats",
+      "source": "/assets/6d001e19fbd99240c9.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/f4e74b07dea74dbe9d3a77237e0ff182.jpg?v=1793720737",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-2-420.webp",
+          "width": 420,
+          "bytes": 14390
+        },
+        {
+          "file": "/redesign/media/new-sweats-2-760.webp",
+          "width": 760,
+          "bytes": 36494
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-7",
+      "role": "variant image",
+      "product": "new-sweats",
+      "source": "/assets/d35a794f636e68a482.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/A8FF1BB2-22B4-4186-A619-E33311A5C977.png?v=1793723829",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-7-420.webp",
+          "width": 420,
+          "bytes": 17384
+        },
+        {
+          "file": "/redesign/media/new-sweats-7-760.webp",
+          "width": 760,
+          "bytes": 45006
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-9",
+      "role": "variant image",
+      "product": "new-sweats",
+      "source": "/assets/22225aca402e002523.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/088346E8-C66F-490A-AB33-CA42736D47ED.png?v=1793723789",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-9-420.webp",
+          "width": 420,
+          "bytes": 16568
+        },
+        {
+          "file": "/redesign/media/new-sweats-9-760.webp",
+          "width": 760,
+          "bytes": 45434
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-5",
+      "role": "variant image",
+      "product": "new-sweats",
+      "source": "/assets/5e5c76d316eca71f59.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/83FE72ED-6A81-460E-95B6-208782291DA5.png?v=1793723829",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-5-420.webp",
+          "width": 420,
+          "bytes": 33260
+        },
+        {
+          "file": "/redesign/media/new-sweats-5-760.webp",
+          "width": 760,
+          "bytes": 80674
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-0",
+      "role": "card primary",
+      "product": "new-sweats",
+      "source": "/assets/4a14e9ba6d694af197.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/303c9b01c6cc4bd0afc0bd866e00d9d2.jpg?v=1793720738",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-0-420.webp",
+          "width": 420,
+          "bytes": 22790
+        },
+        {
+          "file": "/redesign/media/new-sweats-0-760.webp",
+          "width": 760,
+          "bytes": 74028
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-1",
+      "role": "card alternate",
+      "product": "new-sweats",
+      "source": "/assets/6d0b63803f09580038.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/4ea1a686c98449598ed1ae4caef9168d.jpg?v=1793720737",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-1-420.webp",
+          "width": 420,
+          "bytes": 23000
+        },
+        {
+          "file": "/redesign/media/new-sweats-1-760.webp",
+          "width": 760,
+          "bytes": 74568
+        }
+      ]
+    },
+    {
+      "key": "vengeance-sweats-black-12-0",
+      "role": "card primary",
+      "product": "vengeance-sweats-black-12",
+      "source": "/assets/152b281d2ed53f734e.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/56c90267-db89-48b7-a55d-b30daf3c28db.png?v=1789851025",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-0-420.webp",
+          "width": 420,
+          "bytes": 24370
+        },
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-0-760.webp",
+          "width": 760,
+          "bytes": 79958
+        }
+      ]
+    },
+    {
+      "key": "vengeance-sweats-black-12-1",
+      "role": "card alternate",
+      "product": "vengeance-sweats-black-12",
+      "source": "/assets/d630c343c47d58572f.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/65539e06-507a-4c74-9f68-224c46481b6d.png?v=1789851026",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-1-420.webp",
+          "width": 420,
+          "bytes": 31972
+        },
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-1-760.webp",
+          "width": 760,
+          "bytes": 110736
+        }
+      ]
+    },
+    {
+      "key": "spider-performance-shorts-0",
+      "role": "variant image",
+      "product": "spider-performance-shorts",
+      "source": "/assets/a08c8941fd21375ad0.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/b46bcea2e4a444d180d4ef5718470589.jpg?v=1793720076",
+      "sourceSize": "1266x1688",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/spider-performance-shorts-0-420.webp",
+          "width": 420,
+          "bytes": 7722
+        },
+        {
+          "file": "/redesign/media/spider-performance-shorts-0-760.webp",
+          "width": 760,
+          "bytes": 16838
+        }
+      ]
+    },
+    {
+      "key": "spider-performance-shorts-4",
+      "role": "variant image",
+      "product": "spider-performance-shorts",
+      "source": "/assets/b8f801c52ee4c4bfbc.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/9ee236f869d74a51920a14eebd6a22d9.png?v=1793720076",
+      "sourceSize": "1400x1400",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/spider-performance-shorts-4-420.webp",
+          "width": 420,
+          "bytes": 2928
+        },
+        {
+          "file": "/redesign/media/spider-performance-shorts-4-760.webp",
+          "width": 760,
+          "bytes": 7520
+        }
+      ]
+    },
+    {
+      "key": "spider-performance-shorts-2",
+      "role": "card alternate",
+      "product": "spider-performance-shorts",
+      "source": "/assets/b859909d44ee39af9b.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/13ea455d32e64fafaaab5b4f27676206.jpg?v=1793720077",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/spider-performance-shorts-2-420.webp",
+          "width": 420,
+          "bytes": 6716
+        },
+        {
+          "file": "/redesign/media/spider-performance-shorts-2-760.webp",
+          "width": 760,
+          "bytes": 14328
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-2-chapter-panel",
+      "role": "chapter panel",
+      "product": "new-sweats",
+      "source": "/assets/6d001e19fbd99240c9.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/f4e74b07dea74dbe9d3a77237e0ff182.jpg?v=1793720737",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-2-chapter-panel-640.webp",
+          "width": 640,
+          "bytes": 27604
+        },
+        {
+          "file": "/redesign/media/new-sweats-2-chapter-panel-1000.webp",
+          "width": 1000,
+          "bytes": 54926
+        },
+        {
+          "file": "/redesign/media/new-sweats-2-chapter-panel-1341.webp",
+          "width": 1341,
+          "bytes": 90464
+        }
+      ]
+    },
+    {
+      "key": "vengeance-sweats-black-12-2-catalog-tile",
+      "role": "catalog tile",
+      "product": "vengeance-sweats-black-12",
+      "source": "/assets/2bef4721195a4bfa3b.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/tiktok_studio_28.png?v=1789854822",
+      "sourceSize": "1234x1674",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-2-catalog-tile-420.webp",
+          "width": 420,
+          "bytes": 16264
+        },
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-2-catalog-tile-760.webp",
+          "width": 760,
+          "bytes": 39470
+        },
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-2-catalog-tile-1100.webp",
+          "width": 1100,
+          "bytes": 66388
+        }
+      ]
+    },
+    {
+      "key": "hero-background",
+      "role": "hero background",
+      "product": null,
+      "source": "/assets/e1ae072acfa923b069.png",
+      "sourceUrl": "https://vengeanceproject.store/cdn/shop/files/tiktok_studio_1.png",
+      "sourceSize": "1676x2515",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/hero-background-720.webp",
+          "width": 720,
+          "bytes": 34300
+        },
+        {
+          "file": "/redesign/media/hero-background-1100.webp",
+          "width": 1100,
+          "bytes": 58528
+        },
+        {
+          "file": "/redesign/media/hero-background-1676.webp",
+          "width": 1676,
+          "bytes": 108862
+        }
+      ]
+    },
+    {
+      "key": "icarus-pump-cover-blcknvy-11-3-editorial",
+      "role": "editorial",
+      "product": "icarus-pump-cover-blcknvy-11",
+      "source": "/assets/af733e6226794e0edd.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Falling_Angel_Diesel_Shoot_Back.png?v=1770003979",
+      "sourceSize": "2766x3709",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-3-editorial-900.webp",
+          "width": 900,
+          "bytes": 30914
+        },
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-3-editorial-1600.webp",
+          "width": 1600,
+          "bytes": 75072
+        },
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-3-editorial-2400.webp",
+          "width": 2400,
+          "bytes": 153208
+        }
+      ]
+    },
+    {
+      "key": "snow-washed-oversized-cotton-t-shirt-2-chapter",
+      "role": "chapter",
+      "product": "snow-washed-oversized-cotton-t-shirt",
+      "source": "/assets/26dcf614be4acd15f1.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Acid_Wash_Posing_Menlo_Mall_5dc5f943-de9c-4bb4-8e0a-f09ea4d605f3.png?v=1770003998",
+      "sourceSize": "2200x2934",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-2-chapter-960.webp",
+          "width": 960,
+          "bytes": 20616
+        },
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-2-chapter-1600.webp",
+          "width": 1600,
+          "bytes": 44540
+        },
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-2-chapter-2200.webp",
+          "width": 2200,
+          "bytes": 75352
+        }
+      ]
+    },
+    {
+      "key": "icarus-pump-cover-blcknvy-11-2-chapter",
+      "role": "chapter",
+      "product": "icarus-pump-cover-blcknvy-11",
+      "source": "/assets/03360ce82beb044efc.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Falling_Angel_Diesel_Shoot_Front.png?v=1770003979",
+      "sourceSize": "2775x3709",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-2-chapter-960.webp",
+          "width": 960,
+          "bytes": 24268
+        },
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-2-chapter-1600.webp",
+          "width": 1600,
+          "bytes": 50170
+        },
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-2-chapter-2400.webp",
+          "width": 2400,
+          "bytes": 103110
+        }
+      ]
+    },
+    {
+      "key": "vp-emblem",
+      "role": "logo",
+      "product": null,
+      "source": "/assets/516295075d922f2185.png",
+      "sourceUrl": "https://vengeanceproject.store/cdn/shop/files/FINAL_DESIGNS_FIRST_DROP_2.png?v=1767601041",
+      "sourceSize": "672x920",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-emblem-160.webp",
+          "width": 160,
+          "bytes": 9786
+        },
+        {
+          "file": "/redesign/media/vp-emblem-336.webp",
+          "width": 336,
+          "bytes": 28226
+        },
+        {
+          "file": "/redesign/media/vp-emblem-672.webp",
+          "width": 672,
+          "bytes": 72246
+        }
+      ]
+    },
+    {
+      "key": "film-1",
+      "role": "muted brand film",
+      "source": "/assets/ba802a37f07d0f64b8.mp4",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/film-1.mp4",
+          "bytes": 1463598
+        }
+      ]
+    },
+    {
+      "key": "film-2",
+      "role": "muted brand film",
+      "source": "/assets/fbf99a9b694830ccf1.mp4",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/film-2.mp4",
+          "bytes": 1534592
+        }
+      ]
+    },
+    {
+      "key": "film-3",
+      "role": "muted brand film",
+      "source": "/assets/7165dc61729495c373.mp4",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/film-3.mp4",
+          "bytes": 1281755
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-2-hero",
+      "role": "hero",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/b214ab299ade85cc4d.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/fdf7407abbc04385a00d13f8ac56b815.jpg?v=1793721188",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-2-hero-480.webp",
+          "width": 480,
+          "bytes": 17896
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-2-hero-900.webp",
+          "width": 900,
+          "bytes": 47252
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-3-hero",
+      "role": "hero",
+      "product": "vengeance-compression",
+      "source": "/assets/e1ae072acfa923b069.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/tiktok_studio_1.png?v=1771618433",
+      "sourceSize": "1676x2515",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-3-hero-480.webp",
+          "width": 480,
+          "bytes": 21312
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-3-hero-900.webp",
+          "width": 900,
+          "bytes": 48738
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-7-hero",
+      "role": "hero",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/d35a794f636e68a482.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/A8FF1BB2-22B4-4186-A619-E33311A5C977.png?v=1793723829",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-7-hero-480.webp",
+          "width": 480,
+          "bytes": 21512
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-7-hero-900.webp",
+          "width": 900,
+          "bytes": 57136
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-4-band",
+      "role": "band",
+      "product": "vengeance-compression",
+      "source": "/assets/afdf7647a85e8a67e6.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/whiteveng.png?v=1792693413",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-4-band-640.webp",
+          "width": 640,
+          "bytes": 40104
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-4-band-1024.webp",
+          "width": 1024,
+          "bytes": 81970
+        }
+      ]
+    },
+    {
+      "key": "film-4",
+      "role": "muted brand film",
+      "source": "/assets/7b1a0c339da0ee0103.mp4",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/film-4.mp4",
+          "bytes": 2815267
+        }
+      ]
+    },
+    {
+      "key": "film-5",
+      "role": "muted brand film",
+      "source": "/assets/633231c495baa1c62f.mp4",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/film-5.mp4",
+          "bytes": 1231314
+        }
+      ]
+    },
+    {
+      "key": "film-6",
+      "role": "muted brand film",
+      "source": "/assets/b487df0b5d61a0a6bc.mp4",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/film-6.mp4",
+          "bytes": 1161401
+        }
+      ]
+    },
+    {
+      "key": "film-7",
+      "role": "muted brand film",
+      "source": "/assets/d928de47be3f83d75a.mp4",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/film-7.mp4",
+          "bytes": 371779
+        }
+      ]
+    },
+    {
+      "key": "vp-wordmark",
+      "role": "wordmark",
+      "product": null,
+      "source": "/assets/9a4da6069857d555ec.png",
+      "sourceUrl": null,
+      "sourceSize": "1031x600",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-wordmark-440.webp",
+          "width": 440,
+          "bytes": 7368
+        },
+        {
+          "file": "/redesign/media/vp-wordmark-660.webp",
+          "width": 660,
+          "bytes": 12104
+        }
+      ]
+    },
+    {
+      "key": "icarus-pump-cover-blcknvy-11-5-about-open",
+      "role": "about open",
+      "product": "icarus-pump-cover-blcknvy-11",
+      "source": "/assets/6caaa2614909616698.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/27F3E9B9-C12D-41C2-BC2F-67C1F47F04FC.jpg?v=1770003979",
+      "sourceSize": "1365x2048",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-5-about-open-960.webp",
+          "width": 960,
+          "bytes": 63986
+        },
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-5-about-open-1365.webp",
+          "width": 1365,
+          "bytes": 118628
+        }
+      ]
+    },
+    {
+      "key": "new-sweatshirt-0-chapter",
+      "role": "chapter",
+      "product": "new-sweatshirt",
+      "source": "/assets/d4534e023285c92c1d.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/5de4aecdcc0d45fb9115fd643baf829c.jpg?v=1793720182",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweatshirt-0-chapter-720.webp",
+          "width": 720,
+          "bytes": 31288
+        },
+        {
+          "file": "/redesign/media/new-sweatshirt-0-chapter-1122.webp",
+          "width": 1122,
+          "bytes": 71512
+        }
+      ]
+    },
+    {
+      "key": "snow-washed-oversized-cotton-t-shirt-3-poster",
+      "role": "poster",
+      "product": "snow-washed-oversized-cotton-t-shirt",
+      "source": "/assets/9d22424d2e93a8e036.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/9F154C7D-9E67-41CA-A16A-C2F793EE6F55.jpg?v=1770003998",
+      "sourceSize": "1253x1879",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-3-poster-480.webp",
+          "width": 480,
+          "bytes": 17424
+        },
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-3-poster-900.webp",
+          "width": 900,
+          "bytes": 43812
+        }
+      ]
+    },
+    {
+      "key": "snow-washed-oversized-cotton-t-shirt-5-poster",
+      "role": "poster",
+      "product": "snow-washed-oversized-cotton-t-shirt",
+      "source": "/assets/4b67ecfdf8b16de2ff.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/B755EC43-3B13-4D70-BF4E-FF9E540A9D81.jpg?v=1777933151",
+      "sourceSize": "1365x2048",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-5-poster-480.webp",
+          "width": 480,
+          "bytes": 20180
+        },
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-5-poster-900.webp",
+          "width": 900,
+          "bytes": 65000
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-3-poster",
+      "role": "poster",
+      "product": "vengeance-compression",
+      "source": "/assets/e1ae072acfa923b069.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/tiktok_studio_1.png?v=1771618433",
+      "sourceSize": "1676x2515",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-3-poster-480.webp",
+          "width": 480,
+          "bytes": 21312
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-3-poster-900.webp",
+          "width": 900,
+          "bytes": 48738
+        }
+      ]
+    },
+    {
+      "key": "new-sweatshirt-6-chapter",
+      "role": "chapter",
+      "product": "new-sweatshirt",
+      "source": "/assets/35bee26a7732582231.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/B90B5EFD-B32D-4B61-B14C-47EAB57DEF65.png?v=1793724804",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweatshirt-6-chapter-960.webp",
+          "width": 960,
+          "bytes": 50566
+        },
+        {
+          "file": "/redesign/media/new-sweatshirt-6-chapter-1122.webp",
+          "width": 1122,
+          "bytes": 77238
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-5-contact",
+      "role": "contact",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/d35a794f636e68a482.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/A8FF1BB2-22B4-4186-A619-E33311A5C977.png?v=1793723829",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-5-contact-720.webp",
+          "width": 720,
+          "bytes": 40808
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-5-contact-1100.webp",
+          "width": 1100,
+          "bytes": 77428
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-5-contact-1121.webp",
+          "width": 1121,
+          "bytes": 90060
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-2-hero",
+      "role": "hero",
+      "product": "vengeance-compression",
+      "source": "/assets/2b921a55bf61820fa6.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/tiktok_studio_2.png?v=1771618433",
+      "sourceSize": "1929x2894",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-2-hero-960.webp",
+          "width": 960,
+          "bytes": 57920
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-2-hero-1600.webp",
+          "width": 1600,
+          "bytes": 120640
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-2-hero-1929.webp",
+          "width": 1929,
+          "bytes": 176566
+        }
+      ]
+    },
+    {
+      "key": "icarus-hoodie-black-11-1-team",
+      "role": "team",
+      "product": "icarus-hoodie-black-11",
+      "source": "/assets/f256583f922c42085d.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/E4230C9B-7097-4E6D-A2B2-31ACBB797C35.jpg?v=1773455353",
+      "sourceSize": "1365x1718",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-1-team-640.webp",
+          "width": 640,
+          "bytes": 21216
+        },
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-1-team-1100.webp",
+          "width": 1100,
+          "bytes": 47466
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-1-auth",
+      "role": "auth",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/b28b16d6b11e10edc3.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/359c86ce2b92499dbd6aabb239ee5d8b.jpg?v=1793721877",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-1-auth-720.webp",
+          "width": 720,
+          "bytes": 33790
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-1-auth-1100.webp",
+          "width": 1100,
+          "bytes": 62500
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-7-auth",
+      "role": "auth",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/5e5c76d316eca71f59.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/83FE72ED-6A81-460E-95B6-208782291DA5.png?v=1793723829",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-7-auth-720.webp",
+          "width": 720,
+          "bytes": 75700
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-7-auth-1024.webp",
+          "width": 1024,
+          "bytes": 136034
+        }
+      ]
+    },
+    {
+      "key": "icarus-hoodie-black-11-0-pdp",
+      "role": "pdp",
+      "product": "icarus-hoodie-black-11",
+      "source": "/assets/88781883807c3051eb.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/7DC87766-472B-4772-82A7-B13EF9AB2253.jpg?v=1773455268",
+      "sourceSize": "1365x2048",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 43072
+        },
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 98502
+        }
+      ]
+    },
+    {
+      "key": "icarus-hoodie-black-11-1-pdp",
+      "role": "pdp",
+      "product": "icarus-hoodie-black-11",
+      "source": "/assets/f256583f922c42085d.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/E4230C9B-7097-4E6D-A2B2-31ACBB797C35.jpg?v=1773455353",
+      "sourceSize": "1365x1718",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 21418
+        },
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-1-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 47362
+        }
+      ]
+    },
+    {
+      "key": "icarus-hoodie-black-11-2-pdp",
+      "role": "pdp",
+      "product": "icarus-hoodie-black-11",
+      "source": "/assets/8eea5f0edca90198f5.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/EF51E5EC-E193-4005-9034-2DB08BCC09A3.jpg?v=1773455268",
+      "sourceSize": "1365x2048",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 27298
+        },
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 60276
+        }
+      ]
+    },
+    {
+      "key": "icarus-hoodie-black-11-3-pdp",
+      "role": "pdp",
+      "product": "icarus-hoodie-black-11",
+      "source": "/assets/ee1227e9b6acd48202.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Hoodie_front_design_website.png?v=1784072166",
+      "sourceSize": "940x1160",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 21860
+        },
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-3-pdp-940.webp",
+          "width": 940,
+          "bytes": 68816
+        }
+      ]
+    },
+    {
+      "key": "icarus-hoodie-black-11-4-pdp",
+      "role": "pdp",
+      "product": "icarus-hoodie-black-11",
+      "source": "/assets/9bde474e88708dfad9.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Falling_Angel_back_design.png?v=1784072235",
+      "sourceSize": "938x1160",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 22098
+        },
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-4-pdp-938.webp",
+          "width": 938,
+          "bytes": 60396
+        }
+      ]
+    },
+    {
+      "key": "icarus-hoodie-black-11-5-size-chart",
+      "role": "size chart",
+      "product": "icarus-hoodie-black-11",
+      "source": "/assets/4b59bab1d69ba8b0ff.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/everything_else_v2.png?v=1787989818",
+      "sourceSize": "1535x1024",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-5-size-chart-1000.webp",
+          "width": 1000,
+          "bytes": 65772
+        },
+        {
+          "file": "/redesign/media/icarus-hoodie-black-11-5-size-chart-1535.webp",
+          "width": 1535,
+          "bytes": 117242
+        }
+      ]
+    },
+    {
+      "key": "vengeance-hoodie-black-22-0-pdp",
+      "role": "pdp",
+      "product": "vengeance-hoodie-black-22",
+      "source": "/assets/7ad742c764aa603f25.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/4E15EA55-10E1-44C0-A5D5-FF1AE6C30862.jpg?v=1770851714",
+      "sourceSize": "1188x1782",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 22934
+        },
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 49988
+        }
+      ]
+    },
+    {
+      "key": "vengeance-hoodie-black-22-1-pdp",
+      "role": "pdp",
+      "product": "vengeance-hoodie-black-22",
+      "source": "/assets/830319762d8e39be09.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/136434C6-B430-40BF-8398-8A1A3CE198FB.jpg?v=1770851714",
+      "sourceSize": "1365x2048",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 23010
+        },
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-1-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 50966
+        }
+      ]
+    },
+    {
+      "key": "vengeance-hoodie-black-22-2-pdp",
+      "role": "pdp",
+      "product": "vengeance-hoodie-black-22",
+      "source": "/assets/ee1227e9b6acd48202.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Hoodie_front_design_website.png?v=1784072166",
+      "sourceSize": "940x1160",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 21860
+        },
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-2-pdp-940.webp",
+          "width": 940,
+          "bytes": 68816
+        }
+      ]
+    },
+    {
+      "key": "vengeance-hoodie-black-22-3-pdp",
+      "role": "pdp",
+      "product": "vengeance-hoodie-black-22",
+      "source": "/assets/9b4a1459dc8cedae3d.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Vengeance_Hoodie_back_design.png?v=1784072173",
+      "sourceSize": "938x1160",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 26290
+        },
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-3-pdp-938.webp",
+          "width": 938,
+          "bytes": 67082
+        }
+      ]
+    },
+    {
+      "key": "vengeance-hoodie-black-22-4-size-chart",
+      "role": "size chart",
+      "product": "vengeance-hoodie-black-22",
+      "source": "/assets/4b59bab1d69ba8b0ff.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/everything_else_v2.png?v=1787989818",
+      "sourceSize": "1535x1024",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-4-size-chart-1000.webp",
+          "width": 1000,
+          "bytes": 65772
+        },
+        {
+          "file": "/redesign/media/vengeance-hoodie-black-22-4-size-chart-1535.webp",
+          "width": 1535,
+          "bytes": 117242
+        }
+      ]
+    },
+    {
+      "key": "snow-washed-oversized-cotton-t-shirt-0-pdp",
+      "role": "pdp",
+      "product": "snow-washed-oversized-cotton-t-shirt",
+      "source": "/assets/9942d21b18fd2c6045.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Acid_Wash_Back_Website_675272a0-c61b-4aca-a7ed-66789c3d4f3a.png?v=1771119265",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 22876
+        },
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 62638
+        }
+      ]
+    },
+    {
+      "key": "snow-washed-oversized-cotton-t-shirt-1-pdp",
+      "role": "pdp",
+      "product": "snow-washed-oversized-cotton-t-shirt",
+      "source": "/assets/be676a4a98ef1b3c07.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Acid_Wash_Front_Website_25c74937-60cf-4fd3-9d00-75e62e6bc7e2.png?v=1771119265",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 16524
+        },
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-1-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 46106
+        }
+      ]
+    },
+    {
+      "key": "snow-washed-oversized-cotton-t-shirt-2-pdp",
+      "role": "pdp",
+      "product": "snow-washed-oversized-cotton-t-shirt",
+      "source": "/assets/26dcf614be4acd15f1.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Acid_Wash_Posing_Menlo_Mall_5dc5f943-de9c-4bb4-8e0a-f09ea4d605f3.png?v=1770003998",
+      "sourceSize": "2200x2934",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 12738
+        },
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 26732
+        }
+      ]
+    },
+    {
+      "key": "snow-washed-oversized-cotton-t-shirt-3-pdp",
+      "role": "pdp",
+      "product": "snow-washed-oversized-cotton-t-shirt",
+      "source": "/assets/9d22424d2e93a8e036.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/9F154C7D-9E67-41CA-A16A-C2F793EE6F55.jpg?v=1770003998",
+      "sourceSize": "1253x1879",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 26314
+        },
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-3-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 58868
+        }
+      ]
+    },
+    {
+      "key": "snow-washed-oversized-cotton-t-shirt-4-pdp",
+      "role": "pdp",
+      "product": "snow-washed-oversized-cotton-t-shirt",
+      "source": "/assets/00fa4e806927912109.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Acid_Wash_Diesel_Shoot_Front.png?v=1770003998",
+      "sourceSize": "2748x3709",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 17620
+        },
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-4-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 56028
+        }
+      ]
+    },
+    {
+      "key": "snow-washed-oversized-cotton-t-shirt-5-pdp",
+      "role": "pdp",
+      "product": "snow-washed-oversized-cotton-t-shirt",
+      "source": "/assets/4b67ecfdf8b16de2ff.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/B755EC43-3B13-4D70-BF4E-FF9E540A9D81.jpg?v=1777933151",
+      "sourceSize": "1365x2048",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-5-pdp-640.webp",
+          "width": 640,
+          "bytes": 34212
+        },
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-5-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 108634
+        }
+      ]
+    },
+    {
+      "key": "snow-washed-oversized-cotton-t-shirt-6-size-chart",
+      "role": "size chart",
+      "product": "snow-washed-oversized-cotton-t-shirt",
+      "source": "/assets/4b59bab1d69ba8b0ff.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/everything_else_v2.png?v=1787989818",
+      "sourceSize": "1535x1024",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-6-size-chart-1000.webp",
+          "width": 1000,
+          "bytes": 65772
+        },
+        {
+          "file": "/redesign/media/snow-washed-oversized-cotton-t-shirt-6-size-chart-1535.webp",
+          "width": 1535,
+          "bytes": 117242
+        }
+      ]
+    },
+    {
+      "key": "vengeance-sweats-black-12-0-pdp",
+      "role": "pdp",
+      "product": "vengeance-sweats-black-12",
+      "source": "/assets/152b281d2ed53f734e.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/56c90267-db89-48b7-a55d-b30daf3c28db.png?v=1789851025",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 58848
+        },
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 145912
+        }
+      ]
+    },
+    {
+      "key": "vengeance-sweats-black-12-1-pdp",
+      "role": "pdp",
+      "product": "vengeance-sweats-black-12",
+      "source": "/assets/d630c343c47d58572f.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/65539e06-507a-4c74-9f68-224c46481b6d.png?v=1789851026",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 80150
+        },
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-1-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 198936
+        }
+      ]
+    },
+    {
+      "key": "vengeance-sweats-black-12-2-pdp",
+      "role": "pdp",
+      "product": "vengeance-sweats-black-12",
+      "source": "/assets/2bef4721195a4bfa3b.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/tiktok_studio_28.png?v=1789854822",
+      "sourceSize": "1234x1674",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 31364
+        },
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 64528
+        }
+      ]
+    },
+    {
+      "key": "vengeance-sweats-black-12-3-pdp",
+      "role": "pdp",
+      "product": "vengeance-sweats-black-12",
+      "source": "/assets/dd8c43f24878bf2b60.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/69bb8adc-cd23-4065-8ee7-28f0a00c674f.png?v=1789854309",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 12074
+        },
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-3-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 26696
+        }
+      ]
+    },
+    {
+      "key": "vengeance-sweats-black-12-4-pdp",
+      "role": "pdp",
+      "product": "vengeance-sweats-black-12",
+      "source": "/assets/b7ec7c604a757c3e48.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/da9a1756-088f-4290-ad05-e8f8c740695e.png?v=1789854309",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 12574
+        },
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-4-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 28348
+        }
+      ]
+    },
+    {
+      "key": "vengeance-sweats-black-12-5-pdp",
+      "role": "pdp",
+      "product": "vengeance-sweats-black-12",
+      "source": "/assets/6975fe7d6c267af58d.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/0a87e51f-be3f-4c8c-a419-9a32c2b21470.png?v=1789854914",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-5-pdp-640.webp",
+          "width": 640,
+          "bytes": 57256
+        },
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-5-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 123242
+        }
+      ]
+    },
+    {
+      "key": "vengeance-sweats-black-12-6-pdp",
+      "role": "pdp",
+      "product": "vengeance-sweats-black-12",
+      "source": "/assets/50ec94f874452ee6cd.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/d2596d41-9584-4ae1-bc55-1258745a44c1.png?v=1789851422",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-6-pdp-640.webp",
+          "width": 640,
+          "bytes": 43530
+        },
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-6-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 100364
+        }
+      ]
+    },
+    {
+      "key": "vengeance-sweats-black-12-7-size-chart",
+      "role": "size chart",
+      "product": "vengeance-sweats-black-12",
+      "source": "/assets/4b59bab1d69ba8b0ff.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/everything_else_v2.png?v=1787989818",
+      "sourceSize": "1535x1024",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-7-size-chart-1000.webp",
+          "width": 1000,
+          "bytes": 65772
+        },
+        {
+          "file": "/redesign/media/vengeance-sweats-black-12-7-size-chart-1535.webp",
+          "width": 1535,
+          "bytes": 117242
+        }
+      ]
+    },
+    {
+      "key": "icarus-pump-cover-blcknvy-11-0-pdp",
+      "role": "pdp",
+      "product": "icarus-pump-cover-blcknvy-11",
+      "source": "/assets/deeb9ed44aea272341.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Falling_Angel_Back_Website.png?v=1770854227",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 19744
+        },
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 52282
+        }
+      ]
+    },
+    {
+      "key": "icarus-pump-cover-blcknvy-11-1-pdp",
+      "role": "pdp",
+      "product": "icarus-pump-cover-blcknvy-11",
+      "source": "/assets/064eb9c5337e974de7.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Falling_Angel_Front_Website.png?v=1770854227",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 12724
+        },
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-1-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 38260
+        }
+      ]
+    },
+    {
+      "key": "icarus-pump-cover-blcknvy-11-2-pdp",
+      "role": "pdp",
+      "product": "icarus-pump-cover-blcknvy-11",
+      "source": "/assets/03360ce82beb044efc.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Falling_Angel_Diesel_Shoot_Front.png?v=1770003979",
+      "sourceSize": "2775x3709",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 15364
+        },
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 30462
+        }
+      ]
+    },
+    {
+      "key": "icarus-pump-cover-blcknvy-11-3-pdp",
+      "role": "pdp",
+      "product": "icarus-pump-cover-blcknvy-11",
+      "source": "/assets/af733e6226794e0edd.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Falling_Angel_Diesel_Shoot_Back.png?v=1770003979",
+      "sourceSize": "2766x3709",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 20142
+        },
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-3-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 43610
+        }
+      ]
+    },
+    {
+      "key": "icarus-pump-cover-blcknvy-11-4-pdp",
+      "role": "pdp",
+      "product": "icarus-pump-cover-blcknvy-11",
+      "source": "/assets/2b74e812843306186d.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/675A178B-3EE5-4E0E-B2F8-DCDE64B8D828.jpg?v=1770003979",
+      "sourceSize": "1365x2048",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 23210
+        },
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-4-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 48874
+        }
+      ]
+    },
+    {
+      "key": "icarus-pump-cover-blcknvy-11-5-pdp",
+      "role": "pdp",
+      "product": "icarus-pump-cover-blcknvy-11",
+      "source": "/assets/6caaa2614909616698.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/27F3E9B9-C12D-41C2-BC2F-67C1F47F04FC.jpg?v=1770003979",
+      "sourceSize": "1365x2048",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-5-pdp-640.webp",
+          "width": 640,
+          "bytes": 33632
+        },
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-5-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 69946
+        }
+      ]
+    },
+    {
+      "key": "icarus-pump-cover-blcknvy-11-6-pdp",
+      "role": "pdp",
+      "product": "icarus-pump-cover-blcknvy-11",
+      "source": "/assets/b91d4862cf6af5106c.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Falling_Angel_Diesel_Shoot_Front_V2.png?v=1770003979",
+      "sourceSize": "2748x3709",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-6-pdp-640.webp",
+          "width": 640,
+          "bytes": 9458
+        },
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-6-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 20910
+        }
+      ]
+    },
+    {
+      "key": "icarus-pump-cover-blcknvy-11-7-size-chart",
+      "role": "size chart",
+      "product": "icarus-pump-cover-blcknvy-11",
+      "source": "/assets/4b59bab1d69ba8b0ff.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/everything_else_v2.png?v=1787989818",
+      "sourceSize": "1535x1024",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-7-size-chart-1000.webp",
+          "width": 1000,
+          "bytes": 65772
+        },
+        {
+          "file": "/redesign/media/icarus-pump-cover-blcknvy-11-7-size-chart-1535.webp",
+          "width": 1535,
+          "bytes": 117242
+        }
+      ]
+    },
+    {
+      "key": "performance-quarter-zip-0-pdp",
+      "role": "pdp",
+      "product": "performance-quarter-zip",
+      "source": "/assets/80a1e1b6725e9e4236.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_0e44a84e-8e6c-4176-9c08-7c660b8452e9.png?v=1793723725",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-quarter-zip-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 19298
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 37228
+        }
+      ]
+    },
+    {
+      "key": "performance-quarter-zip-1-pdp",
+      "role": "pdp",
+      "product": "performance-quarter-zip",
+      "source": "/assets/7ee469f8010ccdd4e7.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_28c56252-c46e-4bbb-8761-bce58606a8c9.png?v=1793723725",
+      "sourceSize": "1000x1734",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-quarter-zip-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 21918
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-1-pdp-1000.webp",
+          "width": 1000,
+          "bytes": 40002
+        }
+      ]
+    },
+    {
+      "key": "performance-quarter-zip-2-pdp",
+      "role": "pdp",
+      "product": "performance-quarter-zip",
+      "source": "/assets/8a1f1a0d833e6db4d1.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_8eb8feda-2bf1-4acc-8663-0020272ef5a7.png?v=1793723725",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-quarter-zip-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 15302
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 30294
+        }
+      ]
+    },
+    {
+      "key": "performance-quarter-zip-3-pdp",
+      "role": "pdp",
+      "product": "performance-quarter-zip",
+      "source": "/assets/6c6f252364bb5d5fe3.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_4dc1561e-4340-4f1d-bc82-33ba52fadfea.png?v=1793723725",
+      "sourceSize": "1031x1734",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-quarter-zip-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 16828
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-3-pdp-1031.webp",
+          "width": 1031,
+          "bytes": 31470
+        }
+      ]
+    },
+    {
+      "key": "performance-quarter-zip-4-pdp",
+      "role": "pdp",
+      "product": "performance-quarter-zip",
+      "source": "/assets/c5b63e24a720aa0451.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/FC6718DD-EE9B-49CB-814A-67E296867D0C.png?v=1793723725",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-quarter-zip-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 20480
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-4-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 39880
+        }
+      ]
+    },
+    {
+      "key": "performance-quarter-zip-5-pdp",
+      "role": "pdp",
+      "product": "performance-quarter-zip",
+      "source": "/assets/52af0f732958f6e259.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/A1CA9C5A-D3E9-4026-9CF8-7E77E8A9A872.png?v=1793723725",
+      "sourceSize": "950x1655",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-quarter-zip-5-pdp-640.webp",
+          "width": 640,
+          "bytes": 27510
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-5-pdp-950.webp",
+          "width": 950,
+          "bytes": 50976
+        }
+      ]
+    },
+    {
+      "key": "performance-quarter-zip-6-pdp",
+      "role": "pdp",
+      "product": "performance-quarter-zip",
+      "source": "/assets/b292efb0c56de6a46e.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_d9032fd7-86b2-420c-b04d-fce786d6272b.png?v=1793723725",
+      "sourceSize": "994x1734",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-quarter-zip-6-pdp-640.webp",
+          "width": 640,
+          "bytes": 24218
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-6-pdp-994.webp",
+          "width": 994,
+          "bytes": 42614
+        }
+      ]
+    },
+    {
+      "key": "performance-quarter-zip-7-pdp",
+      "role": "pdp",
+      "product": "performance-quarter-zip",
+      "source": "/assets/d208b36224f2ff9864.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_a1830cad-af2f-4c58-b86c-3d65843edad7.png?v=1793723727",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-quarter-zip-7-pdp-640.webp",
+          "width": 640,
+          "bytes": 20652
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-7-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 41018
+        }
+      ]
+    },
+    {
+      "key": "performance-quarter-zip-8-pdp",
+      "role": "pdp",
+      "product": "performance-quarter-zip",
+      "source": "/assets/c569307ad6dc0207e6.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_54503a17-a415-4d38-98f0-9b9d8524d230.png?v=1793723726",
+      "sourceSize": "1356x1675",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-quarter-zip-8-pdp-640.webp",
+          "width": 640,
+          "bytes": 18254
+        },
+        {
+          "file": "/redesign/media/performance-quarter-zip-8-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 40354
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-icarus-zip-up-2-0-pdp",
+      "role": "pdp",
+      "product": "raw-edge-icarus-zip-up-2",
+      "source": "/assets/deeacdd5e13b058666.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/tiktok_studio_24.png?v=1789848788",
+      "sourceSize": "1266x1688",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 16634
+        },
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 36084
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-icarus-zip-up-2-1-pdp",
+      "role": "pdp",
+      "product": "raw-edge-icarus-zip-up-2",
+      "source": "/assets/1390fa861c566abdf1.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/827a3e33-a02e-4e96-a9a5-2f038839a222.png?v=1789690898",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 18568
+        },
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-1-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 49310
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-icarus-zip-up-2-2-pdp",
+      "role": "pdp",
+      "product": "raw-edge-icarus-zip-up-2",
+      "source": "/assets/2970380b5f8b9237c5.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_28.png?v=1789769121",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 33294
+        },
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 94668
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-icarus-zip-up-2-3-pdp",
+      "role": "pdp",
+      "product": "raw-edge-icarus-zip-up-2",
+      "source": "/assets/96bcc8969907b32e59.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_29.png?v=1789769121",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 28886
+        },
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-3-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 85966
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-icarus-zip-up-2-4-pdp",
+      "role": "pdp",
+      "product": "raw-edge-icarus-zip-up-2",
+      "source": "/assets/b5a9f4fa4ff967af96.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/ChatGPT_Image_Sep_9_2026_06_25_28_PM.png?v=1789690899",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 53910
+        },
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-4-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 148276
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-icarus-zip-up-2-5-pdp",
+      "role": "pdp",
+      "product": "raw-edge-icarus-zip-up-2",
+      "source": "/assets/f5f03bbc3d54f30048.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/ChatGPT_Image_Sep_9_2026_06_26_49_PM.png?v=1789757448",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-5-pdp-640.webp",
+          "width": 640,
+          "bytes": 50366
+        },
+        {
+          "file": "/redesign/media/raw-edge-icarus-zip-up-2-5-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 130448
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-0-pdp",
+      "role": "pdp",
+      "product": "new-sweats",
+      "source": "/assets/4a14e9ba6d694af197.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/303c9b01c6cc4bd0afc0bd866e00d9d2.jpg?v=1793720738",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 55010
+        },
+        {
+          "file": "/redesign/media/new-sweats-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 139332
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-1-pdp",
+      "role": "pdp",
+      "product": "new-sweats",
+      "source": "/assets/6d0b63803f09580038.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/4ea1a686c98449598ed1ae4caef9168d.jpg?v=1793720737",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 56114
+        },
+        {
+          "file": "/redesign/media/new-sweats-1-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 141852
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-2-pdp",
+      "role": "pdp",
+      "product": "new-sweats",
+      "source": "/assets/6d001e19fbd99240c9.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/f4e74b07dea74dbe9d3a77237e0ff182.jpg?v=1793720737",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 28662
+        },
+        {
+          "file": "/redesign/media/new-sweats-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 62490
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-3-pdp",
+      "role": "pdp",
+      "product": "new-sweats",
+      "source": "/assets/19c41d42ec02edd66e.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/e8435f53306d4367ad3dc23ff3a1bc6d.jpg?v=1793720736",
+      "sourceSize": "1258x1677",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 56938
+        },
+        {
+          "file": "/redesign/media/new-sweats-3-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 143412
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-4-pdp",
+      "role": "pdp",
+      "product": "new-sweats",
+      "source": "/assets/15b2a87cce44a078f0.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/46f56072bee94a35ac5b995e69d0f9ee.jpg?v=1793720737",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 17882
+        },
+        {
+          "file": "/redesign/media/new-sweats-4-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 43422
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-5-pdp",
+      "role": "pdp",
+      "product": "new-sweats",
+      "source": "/assets/5e5c76d316eca71f59.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/83FE72ED-6A81-460E-95B6-208782291DA5.png?v=1793723829",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-5-pdp-640.webp",
+          "width": 640,
+          "bytes": 63250
+        },
+        {
+          "file": "/redesign/media/new-sweats-5-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 139670
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-6-pdp",
+      "role": "pdp",
+      "product": "new-sweats",
+      "source": "/assets/6433cb1bd98bd3cdbf.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/4EC2E141-E3AD-4A3B-BCB7-01B1ADE4A02C.png?v=1793723829",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-6-pdp-640.webp",
+          "width": 640,
+          "bytes": 68558
+        },
+        {
+          "file": "/redesign/media/new-sweats-6-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 141394
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-7-pdp",
+      "role": "pdp",
+      "product": "new-sweats",
+      "source": "/assets/d35a794f636e68a482.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/A8FF1BB2-22B4-4186-A619-E33311A5C977.png?v=1793723829",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-7-pdp-640.webp",
+          "width": 640,
+          "bytes": 34926
+        },
+        {
+          "file": "/redesign/media/new-sweats-7-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 75818
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-8-pdp",
+      "role": "pdp",
+      "product": "new-sweats",
+      "source": "/assets/23e8eeb3fba1c66e8d.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/4AD79D23-86C7-460B-97F8-020B17A6D9EF.png?v=1793723823",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-8-pdp-640.webp",
+          "width": 640,
+          "bytes": 45912
+        },
+        {
+          "file": "/redesign/media/new-sweats-8-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 117076
+        }
+      ]
+    },
+    {
+      "key": "new-sweats-9-pdp",
+      "role": "pdp",
+      "product": "new-sweats",
+      "source": "/assets/22225aca402e002523.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/088346E8-C66F-490A-AB33-CA42736D47ED.png?v=1793723789",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweats-9-pdp-640.webp",
+          "width": 640,
+          "bytes": 35188
+        },
+        {
+          "file": "/redesign/media/new-sweats-9-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 78006
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-0-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/69daef9e9e734da7a2.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/995114624cd74ab388e2fde1733139f5.jpg?v=1793721187",
+      "sourceSize": "1266x1688",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 21478
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 41174
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-1-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/449751037590760e3f.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/8b4c35284f274fdc9f50298dac34b189.jpg?v=1793721187",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 17882
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-1-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 43422
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-2-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/b214ab299ade85cc4d.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/fdf7407abbc04385a00d13f8ac56b815.jpg?v=1793721188",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 28662
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 62490
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-3-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/22225aca402e002523.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/088346E8-C66F-490A-AB33-CA42736D47ED.png?v=1793723789",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 35188
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-3-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 78006
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-4-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/d32a3f9357acc270b7.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/13E236FB-B063-4160-A3FE-5BAB725290EB.png?v=1793723786",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 33292
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-4-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 70964
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-5-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/5e5c76d316eca71f59.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/83FE72ED-6A81-460E-95B6-208782291DA5.png?v=1793723829",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-5-pdp-640.webp",
+          "width": 640,
+          "bytes": 63250
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-5-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 139670
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-6-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/6433cb1bd98bd3cdbf.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/4EC2E141-E3AD-4A3B-BCB7-01B1ADE4A02C.png?v=1793723829",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-6-pdp-640.webp",
+          "width": 640,
+          "bytes": 68558
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-6-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 141394
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-7-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/d35a794f636e68a482.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/A8FF1BB2-22B4-4186-A619-E33311A5C977.png?v=1793723829",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-7-pdp-640.webp",
+          "width": 640,
+          "bytes": 34926
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-7-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 75818
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-8-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/23e8eeb3fba1c66e8d.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/4AD79D23-86C7-460B-97F8-020B17A6D9EF.png?v=1793723823",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-8-pdp-640.webp",
+          "width": 640,
+          "bytes": 45912
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-8-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 117076
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-9-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/10f067e3ef015ea117.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/11783d00050441848cb86996f50fe9dd.jpg?v=1793721188",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-9-pdp-640.webp",
+          "width": 640,
+          "bytes": 54236
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-9-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 150786
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-10-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/eb49baec58ac509591.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/1754cdeac7ea4e67bf0fa3418dda9123.jpg?v=1793721188",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-10-pdp-640.webp",
+          "width": 640,
+          "bytes": 49586
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-10-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 124070
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-11-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/7df081b09cf8527e44.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_7480f40f-f6ee-4384-85ba-cc6d60561565.png?v=1793723783",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-11-pdp-640.webp",
+          "width": 640,
+          "bytes": 41296
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-11-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 95430
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-12-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/a25dfa083095ed1ab4.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_4713513f-b478-4915-b231-a24ee6cb311b.png?v=1793723786",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-12-pdp-640.webp",
+          "width": 640,
+          "bytes": 38176
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-12-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 83066
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-13-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/0720f2a1fbf1d5c7e2.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_c16085ec-a568-42df-a2f9-ed2fee08a91d.png?v=1793723829",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-13-pdp-640.webp",
+          "width": 640,
+          "bytes": 35696
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-13-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 74164
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-14-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/0988b7c752444d3be5.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_2182cdbe-0bb5-4a74-ab4e-7ff2f7e4ab13.png?v=1793723830",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-14-pdp-640.webp",
+          "width": 640,
+          "bytes": 39398
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-14-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 91598
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-15-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/e899b3c842d77d859c.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_80cd597b-62f5-4c92-b010-efdd9c5c24fc.png?v=1793723830",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-15-pdp-640.webp",
+          "width": 640,
+          "bytes": 37540
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-15-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 86440
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-spider-zip-up-1-16-pdp",
+      "role": "pdp",
+      "product": "raw-edge-spider-zip-up-1",
+      "source": "/assets/996d1181b1a3144947.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_de4dc087-fc73-4072-bc0e-567c6e2f31ec.png?v=1793723830",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-16-pdp-640.webp",
+          "width": 640,
+          "bytes": 36296
+        },
+        {
+          "file": "/redesign/media/raw-edge-spider-zip-up-1-16-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 75458
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-0-pdp",
+      "role": "pdp",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/c04b85f5c29dbb1f6a.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/3269108040264fc0a974a858fd3e8263.jpg?v=1793721877",
+      "sourceSize": "1266x1688",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 19370
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 39292
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-1-pdp",
+      "role": "pdp",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/b28b16d6b11e10edc3.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/359c86ce2b92499dbd6aabb239ee5d8b.jpg?v=1793721877",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 28662
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-1-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 62490
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-2-pdp",
+      "role": "pdp",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/58f8e8d507c124cf2e.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/f4804f742e7d435980f1196d224e4022.jpg?v=1793721877",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 15818
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 32090
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-3-pdp",
+      "role": "pdp",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/233616edfddf442677.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/e01e2ba275d2463c8f2cadcefed56dfc.jpg?v=1793721878",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 46550
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-3-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 121326
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-4-pdp",
+      "role": "pdp",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/01ad3f62f002cb215f.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/f845c3f9914048f2b1f125ed8f4facf1.jpg?v=1793721878",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 54236
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-4-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 150786
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-5-pdp",
+      "role": "pdp",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/d35a794f636e68a482.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/A8FF1BB2-22B4-4186-A619-E33311A5C977.png?v=1793723829",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-5-pdp-640.webp",
+          "width": 640,
+          "bytes": 34926
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-5-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 75818
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-6-pdp",
+      "role": "pdp",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/fad52592218a6aca8a.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/2B70C03E-7152-4E2E-9724-1C5191F22F3A.png?v=1793723828",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-6-pdp-640.webp",
+          "width": 640,
+          "bytes": 45188
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-6-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 101774
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-7-pdp",
+      "role": "pdp",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/5e5c76d316eca71f59.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/83FE72ED-6A81-460E-95B6-208782291DA5.png?v=1793723829",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-7-pdp-640.webp",
+          "width": 640,
+          "bytes": 63250
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-7-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 139670
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-8-pdp",
+      "role": "pdp",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/22225aca402e002523.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/088346E8-C66F-490A-AB33-CA42736D47ED.png?v=1793723789",
+      "sourceSize": "1121x1403",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-8-pdp-640.webp",
+          "width": 640,
+          "bytes": 35188
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-8-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 78006
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-9-pdp",
+      "role": "pdp",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/20afb3d2f69f067cce.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_476c2884-d678-4b70-81b1-e874ea67e760.png?v=1793724613",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-9-pdp-640.webp",
+          "width": 640,
+          "bytes": 37540
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-9-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 86440
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-10-pdp",
+      "role": "pdp",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/0b8aa5e5a5cb10a589.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_bc9fd4ea-5955-4eac-82a0-705401892673.png?v=1793723986",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-10-pdp-640.webp",
+          "width": 640,
+          "bytes": 34498
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-10-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 72482
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-11-pdp",
+      "role": "pdp",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/14f5ad62ed6d4ed24e.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_ae3c2a55-c285-4ff5-a048-2fd6c9ed5ff0.png?v=1793723975",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-11-pdp-640.webp",
+          "width": 640,
+          "bytes": 41296
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-11-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 95430
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-12-pdp",
+      "role": "pdp",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/2086aaf9fdf3cd2f9a.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_00a4c92c-cfaa-4f3f-a329-d618df30935c.png?v=1793723968",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-12-pdp-640.webp",
+          "width": 640,
+          "bytes": 37252
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-12-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 82370
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-13-pdp",
+      "role": "pdp",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/f13ba10742d8ca7d00.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_899a30da-58f6-4d6a-b903-87b6c16cca58.png?v=1793723959",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-13-pdp-640.webp",
+          "width": 640,
+          "bytes": 39398
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-13-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 91598
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-vengeance-zip-up-14-pdp",
+      "role": "pdp",
+      "product": "raw-edge-vengeance-zip-up",
+      "source": "/assets/0c2748a8746b7a847b.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_02574513-0146-424a-b046-c761a71c54d5.png?v=1793723954",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-14-pdp-640.webp",
+          "width": 640,
+          "bytes": 33440
+        },
+        {
+          "file": "/redesign/media/raw-edge-vengeance-zip-up-14-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 69658
+        }
+      ]
+    },
+    {
+      "key": "winged-shirt-0-pdp",
+      "role": "pdp",
+      "product": "winged-shirt",
+      "source": "/assets/adf01d226372d64a95.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_15c0f8e0-75ea-44f6-8b1a-bba1f6d119e8.png?v=1793723628",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/winged-shirt-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 30784
+        },
+        {
+          "file": "/redesign/media/winged-shirt-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 59016
+        }
+      ]
+    },
+    {
+      "key": "winged-shirt-1-pdp",
+      "role": "pdp",
+      "product": "winged-shirt",
+      "source": "/assets/c7e7989c82dfe9091a.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_2d8e5c47-52ff-4364-a398-b7a826d330de.png?v=1793723622",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/winged-shirt-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 24516
+        },
+        {
+          "file": "/redesign/media/winged-shirt-1-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 49410
+        }
+      ]
+    },
+    {
+      "key": "winged-shirt-2-pdp",
+      "role": "pdp",
+      "product": "winged-shirt",
+      "source": "/assets/396ae4ee24a99763f1.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_04db3c45-a174-428c-9b24-98768e9fc3c9.png?v=1793723626",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/winged-shirt-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 28132
+        },
+        {
+          "file": "/redesign/media/winged-shirt-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 54196
+        }
+      ]
+    },
+    {
+      "key": "winged-shirt-3-pdp",
+      "role": "pdp",
+      "product": "winged-shirt",
+      "source": "/assets/e0fa84faeacf196328.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_aa35e65c-0226-48a4-a45f-7441e0d45266.png?v=1793723627",
+      "sourceSize": "1137x1528",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/winged-shirt-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 17300
+        },
+        {
+          "file": "/redesign/media/winged-shirt-3-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 45506
+        }
+      ]
+    },
+    {
+      "key": "winged-shirt-4-pdp",
+      "role": "pdp",
+      "product": "winged-shirt",
+      "source": "/assets/8bc523ea5608a9c0c9.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_dfeb18a2-c7c9-4dcf-9bd0-7fb55851df50.png?v=1793723625",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/winged-shirt-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 32020
+        },
+        {
+          "file": "/redesign/media/winged-shirt-4-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 62614
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-winged-sweats-0-pdp",
+      "role": "pdp",
+      "product": "raw-edge-winged-sweats",
+      "source": "/assets/0c1ef7e57758b5b96e.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/9BCB8FD8-AC30-437F-A892-09C54C5BCF0D.png?v=1793723587",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 35378
+        },
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-0-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 122714
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-winged-sweats-1-pdp",
+      "role": "pdp",
+      "product": "raw-edge-winged-sweats",
+      "source": "/assets/2f894d4835b436e6d0.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/95AFC855-5A2D-423F-B828-38A2E021303D.png?v=1793723587",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 19074
+        },
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-1-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 54732
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-winged-sweats-2-pdp",
+      "role": "pdp",
+      "product": "raw-edge-winged-sweats",
+      "source": "/assets/e86dff74da4ebdcd14.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/8751FC3B-B7B4-4023-B844-4645FC48BCCF.png?v=1793723587",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 33042
+        },
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-2-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 134488
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-winged-sweats-3-pdp",
+      "role": "pdp",
+      "product": "raw-edge-winged-sweats",
+      "source": "/assets/fb13589ea92b174fb2.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/7CEECD2F-2FD0-4036-A1A8-232FB104B7DA.png?v=1793723586",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 24602
+        },
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-3-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 105708
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-winged-sweats-4-pdp",
+      "role": "pdp",
+      "product": "raw-edge-winged-sweats",
+      "source": "/assets/b551c955cff85e1c1f.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/B0D4CAF7-540F-48F2-A6FC-2746E3B78FBA.png?v=1793723587",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 16924
+        },
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-4-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 46320
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-winged-sweats-5-pdp",
+      "role": "pdp",
+      "product": "raw-edge-winged-sweats",
+      "source": "/assets/aacb3b2e56f1916fd3.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/AA7A7B50-38C6-4C99-9B8F-75F8369AAD8C.png?v=1793723587",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-5-pdp-640.webp",
+          "width": 640,
+          "bytes": 18122
+        },
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-5-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 44386
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-winged-sweats-6-pdp",
+      "role": "pdp",
+      "product": "raw-edge-winged-sweats",
+      "source": "/assets/3a1aa1c9aaee6cea9c.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/52ADA3D1-C1CA-4F9F-A52E-008E03EA9170.png?v=1793723587",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-6-pdp-640.webp",
+          "width": 640,
+          "bytes": 15690
+        },
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-6-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 33120
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-winged-sweats-7-pdp",
+      "role": "pdp",
+      "product": "raw-edge-winged-sweats",
+      "source": "/assets/18293d2844c84c6b9c.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/510F211C-949D-4ABF-BBA8-71D1A47543DA.png?v=1793723587",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-7-pdp-640.webp",
+          "width": 640,
+          "bytes": 14832
+        },
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-7-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 30658
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-winged-sweats-8-pdp",
+      "role": "pdp",
+      "product": "raw-edge-winged-sweats",
+      "source": "/assets/a980a7bcbb49f7204d.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/886FE350-9F0E-45C1-8860-B4F01150B8BC.png?v=1793723587",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-8-pdp-640.webp",
+          "width": 640,
+          "bytes": 16066
+        },
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-8-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 38756
+        }
+      ]
+    },
+    {
+      "key": "raw-edge-winged-sweats-9-pdp",
+      "role": "pdp",
+      "product": "raw-edge-winged-sweats",
+      "source": "/assets/60826be08f0934abcb.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/9525BD29-474D-4102-A1CA-F8C1DFF7776A.png?v=1793723587",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-9-pdp-640.webp",
+          "width": 640,
+          "bytes": 13158
+        },
+        {
+          "file": "/redesign/media/raw-edge-winged-sweats-9-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 27302
+        }
+      ]
+    },
+    {
+      "key": "essential-heavyweight-crewneck-sweatshirt-0-pdp",
+      "role": "pdp",
+      "product": "essential-heavyweight-crewneck-sweatshirt",
+      "source": "/assets/36fed97a3ef1761f22.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_a18829cc-1abc-4d4d-a91b-54a66d1d8d0b.png?v=1793723539",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 29218
+        },
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 56092
+        }
+      ]
+    },
+    {
+      "key": "essential-heavyweight-crewneck-sweatshirt-1-pdp",
+      "role": "pdp",
+      "product": "essential-heavyweight-crewneck-sweatshirt",
+      "source": "/assets/37d244357b2f21b29f.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_23320342-0a34-4601-a721-547b3b61b124.png?v=1793723539",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 29458
+        },
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-1-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 55538
+        }
+      ]
+    },
+    {
+      "key": "essential-heavyweight-crewneck-sweatshirt-2-pdp",
+      "role": "pdp",
+      "product": "essential-heavyweight-crewneck-sweatshirt",
+      "source": "/assets/b59bc33e98acbcbdd0.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_9ac7b66b-aeea-466d-90f8-20eb87bfec6e.png?v=1793723539",
+      "sourceSize": "1137x1706",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 23238
+        },
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 44454
+        }
+      ]
+    },
+    {
+      "key": "essential-heavyweight-crewneck-sweatshirt-3-pdp",
+      "role": "pdp",
+      "product": "essential-heavyweight-crewneck-sweatshirt",
+      "source": "/assets/947fa67ffa40f62fc2.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_1d28b977-dc43-493b-81c7-a3153117b970.png?v=1793723540",
+      "sourceSize": "1138x1666",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 12286
+        },
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-3-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 29744
+        }
+      ]
+    },
+    {
+      "key": "essential-heavyweight-crewneck-sweatshirt-4-pdp",
+      "role": "pdp",
+      "product": "essential-heavyweight-crewneck-sweatshirt",
+      "source": "/assets/1bf3ade2ba660623a0.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/54E50531-02C3-4EBB-8330-308CB066D4C9.png?v=1793723539",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 37448
+        },
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-4-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 76776
+        }
+      ]
+    },
+    {
+      "key": "essential-heavyweight-crewneck-sweatshirt-5-pdp",
+      "role": "pdp",
+      "product": "essential-heavyweight-crewneck-sweatshirt",
+      "source": "/assets/4d46cd1568eeebd504.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/01FE21A8-8F5C-444E-A9EF-191524B7EDF9.png?v=1793723539",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-5-pdp-640.webp",
+          "width": 640,
+          "bytes": 42050
+        },
+        {
+          "file": "/redesign/media/essential-heavyweight-crewneck-sweatshirt-5-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 84398
+        }
+      ]
+    },
+    {
+      "key": "spider-performance-shorts-0-pdp",
+      "role": "pdp",
+      "product": "spider-performance-shorts",
+      "source": "/assets/a08c8941fd21375ad0.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/b46bcea2e4a444d180d4ef5718470589.jpg?v=1793720076",
+      "sourceSize": "1266x1688",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/spider-performance-shorts-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 12930
+        },
+        {
+          "file": "/redesign/media/spider-performance-shorts-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 27696
+        }
+      ]
+    },
+    {
+      "key": "spider-performance-shorts-1-pdp",
+      "role": "pdp",
+      "product": "spider-performance-shorts",
+      "source": "/assets/0849240f36932d17e4.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/91df77973c9b410885603213a4f15bfd.jpg?v=1793720077",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/spider-performance-shorts-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 19348
+        },
+        {
+          "file": "/redesign/media/spider-performance-shorts-1-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 43006
+        }
+      ]
+    },
+    {
+      "key": "spider-performance-shorts-2-pdp",
+      "role": "pdp",
+      "product": "spider-performance-shorts",
+      "source": "/assets/b859909d44ee39af9b.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/13ea455d32e64fafaaab5b4f27676206.jpg?v=1793720077",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/spider-performance-shorts-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 11452
+        },
+        {
+          "file": "/redesign/media/spider-performance-shorts-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 23048
+        }
+      ]
+    },
+    {
+      "key": "spider-performance-shorts-3-pdp",
+      "role": "pdp",
+      "product": "spider-performance-shorts",
+      "source": "/assets/4efb13f4bd8bc166da.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/b355c8da2afc4abc819e79da901762a8.jpg?v=1793720077",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/spider-performance-shorts-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 11666
+        },
+        {
+          "file": "/redesign/media/spider-performance-shorts-3-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 24736
+        }
+      ]
+    },
+    {
+      "key": "spider-performance-shorts-4-pdp",
+      "role": "pdp",
+      "product": "spider-performance-shorts",
+      "source": "/assets/b8f801c52ee4c4bfbc.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/9ee236f869d74a51920a14eebd6a22d9.png?v=1793720076",
+      "sourceSize": "1400x1400",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/spider-performance-shorts-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 5926
+        },
+        {
+          "file": "/redesign/media/spider-performance-shorts-4-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 13212
+        }
+      ]
+    },
+    {
+      "key": "new-sweatshirt-0-pdp",
+      "role": "pdp",
+      "product": "new-sweatshirt",
+      "source": "/assets/d4534e023285c92c1d.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/5de4aecdcc0d45fb9115fd643baf829c.jpg?v=1793720182",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweatshirt-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 26302
+        },
+        {
+          "file": "/redesign/media/new-sweatshirt-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 57682
+        }
+      ]
+    },
+    {
+      "key": "new-sweatshirt-1-pdp",
+      "role": "pdp",
+      "product": "new-sweatshirt",
+      "source": "/assets/ea5c2ffa7a064247f4.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/058ced35b8f34b99a6eab649b2ae493e.jpg?v=1793720182",
+      "sourceSize": "1086x1448",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweatshirt-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 17810
+        },
+        {
+          "file": "/redesign/media/new-sweatshirt-1-pdp-1086.webp",
+          "width": 1086,
+          "bytes": 50630
+        }
+      ]
+    },
+    {
+      "key": "new-sweatshirt-2-pdp",
+      "role": "pdp",
+      "product": "new-sweatshirt",
+      "source": "/assets/959baae0a8be592894.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/a3248fa6a7264e86a2dd718c94764c62.jpg?v=1793720182",
+      "sourceSize": "1341x1678",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweatshirt-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 33426
+        },
+        {
+          "file": "/redesign/media/new-sweatshirt-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 71570
+        }
+      ]
+    },
+    {
+      "key": "new-sweatshirt-3-pdp",
+      "role": "pdp",
+      "product": "new-sweatshirt",
+      "source": "/assets/53c18a344a67c4f943.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/cc0e61d50953492aa2d0de1166fdbd7e.jpg?v=1793720181",
+      "sourceSize": "1340x1664",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweatshirt-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 16554
+        },
+        {
+          "file": "/redesign/media/new-sweatshirt-3-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 37032
+        }
+      ]
+    },
+    {
+      "key": "new-sweatshirt-4-pdp",
+      "role": "pdp",
+      "product": "new-sweatshirt",
+      "source": "/assets/981d42e5d2ceaeec20.jpg",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/3857181e199b404181fbc7e40805c92e.jpg?v=1793720181",
+      "sourceSize": "1341x1668",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweatshirt-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 20284
+        },
+        {
+          "file": "/redesign/media/new-sweatshirt-4-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 49484
+        }
+      ]
+    },
+    {
+      "key": "new-sweatshirt-5-pdp",
+      "role": "pdp",
+      "product": "new-sweatshirt",
+      "source": "/assets/680b69946e84769ff3.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/9560E310-16B8-4BE7-B975-6D613BF38C1A.png?v=1793724804",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweatshirt-5-pdp-640.webp",
+          "width": 640,
+          "bytes": 30196
+        },
+        {
+          "file": "/redesign/media/new-sweatshirt-5-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 66784
+        }
+      ]
+    },
+    {
+      "key": "new-sweatshirt-6-pdp",
+      "role": "pdp",
+      "product": "new-sweatshirt",
+      "source": "/assets/35bee26a7732582231.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/B90B5EFD-B32D-4B61-B14C-47EAB57DEF65.png?v=1793724804",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/new-sweatshirt-6-pdp-640.webp",
+          "width": 640,
+          "bytes": 26744
+        },
+        {
+          "file": "/redesign/media/new-sweatshirt-6-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 62220
+        }
+      ]
+    },
+    {
+      "key": "vp-compression-2643266-0-pdp",
+      "role": "pdp",
+      "product": "vp-compression-2643266",
+      "source": "/assets/a7830d0789ab768541.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Yourparagraphtext_4.png?v=1772085800",
+      "sourceSize": "938x1160",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-compression-2643266-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 11404
+        },
+        {
+          "file": "/redesign/media/vp-compression-2643266-0-pdp-938.webp",
+          "width": 938,
+          "bytes": 32136
+        }
+      ]
+    },
+    {
+      "key": "vp-compression-2643266-1-pdp",
+      "role": "pdp",
+      "product": "vp-compression-2643266",
+      "source": "/assets/fd453009ff7cf100e5.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_copy.png?v=1792691646",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-compression-2643266-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 11510
+        },
+        {
+          "file": "/redesign/media/vp-compression-2643266-1-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 35592
+        }
+      ]
+    },
+    {
+      "key": "vp-compression-2643266-2-pdp",
+      "role": "pdp",
+      "product": "vp-compression-2643266",
+      "source": "/assets/2117eb3aa7b8b1d954.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/6A22D278-523B-44D5-BAD8-5A5718E0A8CD.png?v=1772087076",
+      "sourceSize": "1284x1994",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-compression-2643266-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 20202
+        },
+        {
+          "file": "/redesign/media/vp-compression-2643266-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 38244
+        }
+      ]
+    },
+    {
+      "key": "vp-compression-2643266-3-pdp",
+      "role": "pdp",
+      "product": "vp-compression-2643266",
+      "source": "/assets/608b72075a624a0434.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/2E946AEE-8A32-48FD-B92D-F8BEDC66740F.png?v=1772087076",
+      "sourceSize": "1284x1965",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-compression-2643266-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 19840
+        },
+        {
+          "file": "/redesign/media/vp-compression-2643266-3-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 36812
+        }
+      ]
+    },
+    {
+      "key": "vp-compression-2643266-4-pdp",
+      "role": "pdp",
+      "product": "vp-compression-2643266",
+      "source": "/assets/0c2f4c5294a2c23b40.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/E0A42728-BC2A-42EA-AD99-55B6FEDAE09D.png?v=1772086966",
+      "sourceSize": "1205x1831",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-compression-2643266-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 17600
+        },
+        {
+          "file": "/redesign/media/vp-compression-2643266-4-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 34468
+        }
+      ]
+    },
+    {
+      "key": "vp-compression-2643266-5-pdp",
+      "role": "pdp",
+      "product": "vp-compression-2643266",
+      "source": "/assets/75a3503f94d122563e.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_1_f015b542-fae1-4087-9247-2ca7b9116a58.png?v=1792692206",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-compression-2643266-5-pdp-640.webp",
+          "width": 640,
+          "bytes": 17532
+        },
+        {
+          "file": "/redesign/media/vp-compression-2643266-5-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 42882
+        }
+      ]
+    },
+    {
+      "key": "vp-compression-2643266-6-pdp",
+      "role": "pdp",
+      "product": "vp-compression-2643266",
+      "source": "/assets/b6398d7debc624a601.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_2_d13058b4-675e-4e9b-ac65-99ef6e9e9f3b.png?v=1792691501",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-compression-2643266-6-pdp-640.webp",
+          "width": 640,
+          "bytes": 15590
+        },
+        {
+          "file": "/redesign/media/vp-compression-2643266-6-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 41342
+        }
+      ]
+    },
+    {
+      "key": "performance-long-sleeve-t-shirt-0-pdp",
+      "role": "pdp",
+      "product": "performance-long-sleeve-t-shirt",
+      "source": "/assets/6cc939c4d2384eab5b.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_6_897fa334-5252-419b-b1bd-7faf12579421.png?v=1772085814",
+      "sourceSize": "938x1160",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 10538
+        },
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-0-pdp-938.webp",
+          "width": 938,
+          "bytes": 29826
+        }
+      ]
+    },
+    {
+      "key": "performance-long-sleeve-t-shirt-1-pdp",
+      "role": "pdp",
+      "product": "performance-long-sleeve-t-shirt",
+      "source": "/assets/643ab662d8fb252437.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_copy_2.png?v=1792691645",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 11108
+        },
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-1-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 33008
+        }
+      ]
+    },
+    {
+      "key": "performance-long-sleeve-t-shirt-2-pdp",
+      "role": "pdp",
+      "product": "performance-long-sleeve-t-shirt",
+      "source": "/assets/93e075ca81b59b2dc5.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/0056DB20-3309-45DB-ADF9-2BBC073C6318.png?v=1772086760",
+      "sourceSize": "1284x2000",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 15756
+        },
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 30718
+        }
+      ]
+    },
+    {
+      "key": "performance-long-sleeve-t-shirt-3-pdp",
+      "role": "pdp",
+      "product": "performance-long-sleeve-t-shirt",
+      "source": "/assets/98198b37b3499ba2cb.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/8BD35734-B896-4F97-AE5D-34D038A2ED44.png?v=1772086868",
+      "sourceSize": "1284x2026",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 18246
+        },
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-3-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 34974
+        }
+      ]
+    },
+    {
+      "key": "performance-long-sleeve-t-shirt-4-pdp",
+      "role": "pdp",
+      "product": "performance-long-sleeve-t-shirt",
+      "source": "/assets/642aaaf77c041c5d9b.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/8F199981-ABB2-4C41-9AD1-74820C93A515.png?v=1772086868",
+      "sourceSize": "1284x1981",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 16328
+        },
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-4-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 31340
+        }
+      ]
+    },
+    {
+      "key": "performance-long-sleeve-t-shirt-5-pdp",
+      "role": "pdp",
+      "product": "performance-long-sleeve-t-shirt",
+      "source": "/assets/f15efd33f37a250719.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/vpls.png?v=1792695835",
+      "sourceSize": "1122x1402",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-5-pdp-640.webp",
+          "width": 640,
+          "bytes": 35286
+        },
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-5-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 65932
+        }
+      ]
+    },
+    {
+      "key": "performance-long-sleeve-t-shirt-6-pdp",
+      "role": "pdp",
+      "product": "performance-long-sleeve-t-shirt",
+      "source": "/assets/af72f164ea204200be.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_5_cf27dbaa-a65e-406b-bdf9-731fc32f0ee2.png?v=1792691501",
+      "sourceSize": "1503x1812",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-6-pdp-640.webp",
+          "width": 640,
+          "bytes": 17376
+        },
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-6-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 41318
+        }
+      ]
+    },
+    {
+      "key": "performance-long-sleeve-t-shirt-7-pdp",
+      "role": "pdp",
+      "product": "performance-long-sleeve-t-shirt",
+      "source": "/assets/ab8731240020a674c7.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_3.png?v=1792692069",
+      "sourceSize": "1437x1746",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-7-pdp-640.webp",
+          "width": 640,
+          "bytes": 15184
+        },
+        {
+          "file": "/redesign/media/performance-long-sleeve-t-shirt-7-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 37826
+        }
+      ]
+    },
+    {
+      "key": "vp-shorts-0-pdp",
+      "role": "pdp",
+      "product": "vp-shorts",
+      "source": "/assets/82b63d6c529480e232.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_7da27840-537d-4143-bf54-ad7379d7fce7.png?v=1793723664",
+      "sourceSize": "1328x1659",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-shorts-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 12702
+        },
+        {
+          "file": "/redesign/media/vp-shorts-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 25810
+        }
+      ]
+    },
+    {
+      "key": "vp-shorts-1-pdp",
+      "role": "pdp",
+      "product": "vp-shorts",
+      "source": "/assets/5dd0108b5db392f607.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_fb66d752-d829-45bf-8b6d-bd62fb1bb52b.png?v=1793723663",
+      "sourceSize": "1328x1659",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-shorts-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 10010
+        },
+        {
+          "file": "/redesign/media/vp-shorts-1-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 18966
+        }
+      ]
+    },
+    {
+      "key": "vp-shorts-2-pdp",
+      "role": "pdp",
+      "product": "vp-shorts",
+      "source": "/assets/937fb4ee57435bdac6.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_8354009e-e115-4715-be22-130cdb6657b2.png?v=1793723664",
+      "sourceSize": "1328x1659",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-shorts-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 12194
+        },
+        {
+          "file": "/redesign/media/vp-shorts-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 24694
+        }
+      ]
+    },
+    {
+      "key": "vp-shorts-3-pdp",
+      "role": "pdp",
+      "product": "vp-shorts",
+      "source": "/assets/86fff7c7d35a1a4a05.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_4521b2f2-8f0d-405e-ab0c-3209769f9f99.png?v=1793723664",
+      "sourceSize": "1328x1659",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-shorts-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 11564
+        },
+        {
+          "file": "/redesign/media/vp-shorts-3-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 22474
+        }
+      ]
+    },
+    {
+      "key": "vp-shorts-4-pdp",
+      "role": "pdp",
+      "product": "vp-shorts",
+      "source": "/assets/2cb48e9ff57f59a6c2.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_60c3ffc4-e7dd-4c7f-9bba-319cb5ece5a4.png?v=1793723663",
+      "sourceSize": "1328x1659",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vp-shorts-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 13398
+        },
+        {
+          "file": "/redesign/media/vp-shorts-4-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 27716
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-0-pdp",
+      "role": "pdp",
+      "product": "vengeance-compression",
+      "source": "/assets/a1fa375d10cec8a81b.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Yourparagraphtext.png?v=1770003904",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 14230
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 39160
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-1-pdp",
+      "role": "pdp",
+      "product": "vengeance-compression",
+      "source": "/assets/fd453009ff7cf100e5.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_copy.png?v=1792691646",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 11510
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-1-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 35592
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-2-pdp",
+      "role": "pdp",
+      "product": "vengeance-compression",
+      "source": "/assets/2b921a55bf61820fa6.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/tiktok_studio_2.png?v=1771618433",
+      "sourceSize": "1929x2894",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 34974
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-2-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 72346
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-3-pdp",
+      "role": "pdp",
+      "product": "vengeance-compression",
+      "source": "/assets/e1ae072acfa923b069.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/tiktok_studio_1.png?v=1771618433",
+      "sourceSize": "1676x2515",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 30754
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-3-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 60422
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-4-pdp",
+      "role": "pdp",
+      "product": "vengeance-compression",
+      "source": "/assets/afdf7647a85e8a67e6.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/whiteveng.png?v=1792693413",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 39924
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-4-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 81720
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-5-pdp",
+      "role": "pdp",
+      "product": "vengeance-compression",
+      "source": "/assets/78a5a65a0c6e7ef261.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text.png?v=1792691501",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-5-pdp-640.webp",
+          "width": 640,
+          "bytes": 19484
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-5-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 47084
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-6-pdp",
+      "role": "pdp",
+      "product": "vengeance-compression",
+      "source": "/assets/b6398d7debc624a601.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_2_d13058b4-675e-4e9b-ac65-99ef6e9e9f3b.png?v=1792691501",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-6-pdp-640.webp",
+          "width": 640,
+          "bytes": 15590
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-6-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 41342
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-long-sleeve-0-pdp",
+      "role": "pdp",
+      "product": "vengeance-compression-long-sleeve",
+      "source": "/assets/56632a5fe37d1c1007.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_copy_3.png?v=1792691983",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-0-pdp-640.webp",
+          "width": 640,
+          "bytes": 13628
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-0-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 36410
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-long-sleeve-1-pdp",
+      "role": "pdp",
+      "product": "vengeance-compression-long-sleeve",
+      "source": "/assets/643ab662d8fb252437.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_copy_2.png?v=1792691645",
+      "sourceSize": "1466x1813",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-1-pdp-640.webp",
+          "width": 640,
+          "bytes": 11108
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-1-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 33008
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-long-sleeve-2-pdp",
+      "role": "pdp",
+      "product": "vengeance-compression-long-sleeve",
+      "source": "/assets/64fadff94e9833b7ad.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/vengcomp.png?v=1792692813",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-2-pdp-640.webp",
+          "width": 640,
+          "bytes": 37242
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-2-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 74238
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-long-sleeve-3-pdp",
+      "role": "pdp",
+      "product": "vengeance-compression-long-sleeve",
+      "source": "/assets/b39245531228901523.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/whitevengcomp.png?v=1792692810",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-3-pdp-640.webp",
+          "width": 640,
+          "bytes": 42000
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-3-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 78144
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-long-sleeve-4-pdp",
+      "role": "pdp",
+      "product": "vengeance-compression-long-sleeve",
+      "source": "/assets/1831c8e754c21f1b92.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/whitevengcompsitting.png?v=1792692806",
+      "sourceSize": "1024x1536",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-4-pdp-640.webp",
+          "width": 640,
+          "bytes": 39186
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-4-pdp-1024.webp",
+          "width": 1024,
+          "bytes": 78432
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-long-sleeve-5-pdp",
+      "role": "pdp",
+      "product": "vengeance-compression-long-sleeve",
+      "source": "/assets/918075678dc6dd5254.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_4_f506757b-a3c8-4f9a-9616-78fcd6ee9d73.png?v=1792692089",
+      "sourceSize": "1450x1812",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-5-pdp-640.webp",
+          "width": 640,
+          "bytes": 19534
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-5-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 47054
+        }
+      ]
+    },
+    {
+      "key": "vengeance-compression-long-sleeve-6-pdp",
+      "role": "pdp",
+      "product": "vengeance-compression-long-sleeve",
+      "source": "/assets/ab8731240020a674c7.png",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0702/7952/8614/files/Your_paragraph_text_3.png?v=1792692069",
+      "sourceSize": "1437x1746",
+      "captured": "2026-11-04",
+      "outputs": [
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-6-pdp-640.webp",
+          "width": 640,
+          "bytes": 15184
+        },
+        {
+          "file": "/redesign/media/vengeance-compression-long-sleeve-6-pdp-1100.webp",
+          "width": 1100,
+          "bytes": 37826
+        }
+      ]
+    }
+  ]
+}
